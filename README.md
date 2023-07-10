@@ -9,9 +9,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=getintorj&theme=dracula&hide_border=false" />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=getintorj&theme=blue-green&" alt="Rohit-Jha" />
-</p>
-
 
 <br/>
   
