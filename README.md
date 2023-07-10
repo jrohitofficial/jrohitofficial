@@ -3,17 +3,10 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=getintorj&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=getintorj&theme=dracula&hide_border=false" />
 </p>
-<h2 align="center"> Hi there, I'm Rohit <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px height=22px />
-<h2/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=getintorj&theme=blue-green&show_icons=true" align="left" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getintorj&layout=compact" align="left" 
-width="47%"/>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=getintorj&" alt="Rohit-Jha" /></p>
-
 
 
 <br/>
