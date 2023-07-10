@@ -6,7 +6,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=getintorj&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=getintorj&theme=dracula&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getintorj&theme=dracula&hide_border=false" alt="Rohit-Jha" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getintorj&layout=compact" align="left" 
+width="47%"/>
 </p>
 
 
