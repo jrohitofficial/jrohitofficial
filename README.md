@@ -9,6 +9,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=getintorj&theme=dracula&hide_border=false" />
 </p>
 
+<img align="right" src="https://user-images.githubusercontent.com/36763164/155938198-731c072d-9864-47ae-b451-9dc55ea72a87.gif" width="35%" />
+
 
 <br/>
   
