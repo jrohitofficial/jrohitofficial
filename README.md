@@ -4,12 +4,12 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
 <p align="center">
-  
-<img align="right" src="https://user-images.githubusercontent.com/36763164/155938198-731c072d-9864-47ae-b451-9dc55ea72a87.gif" width="35%" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getintorj&theme=dracula&layout=compact"width="47%"  align="left"/>
-<img src="https://github-readme-stats.vercel.app/api?username=getintorj&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" align="right" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=getintorj&theme=dracula&hide_border=false" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getintorj&theme=dracula&layout=compact"width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=getintorj&theme=dracula&hide_border=false&include_all_commits=false&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=getintorj&theme=dracula&hide_border=false"/>
 </p>
+
+<img align="right" src="https://user-images.githubusercontent.com/36763164/155938198-731c072d-9864-47ae-b451-9dc55ea72a87.gif" width="35%" align="left" />
 
 
 
