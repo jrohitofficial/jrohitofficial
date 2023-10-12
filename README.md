@@ -133,8 +133,8 @@
       <br>WordPress
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue" />
-      <br>Vue
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt="Vue" />
+      <br>Dotnet
   <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="icon" width="40" height="40" />
