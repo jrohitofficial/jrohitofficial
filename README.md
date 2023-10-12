@@ -34,12 +34,12 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <td align="center" width="50">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.python.org/">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
       </a>
       <br>Python
