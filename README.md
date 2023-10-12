@@ -135,10 +135,11 @@
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue" />
       <br>Vue
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="40" height="40" alt="Sass" />
-      <br>Sass
+  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="icon" width="40" height="40" />
+      </a>
+      <br>SQLite
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="MySQL" />
@@ -148,12 +149,7 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="icon" width="40" height="40" />
-      </a>
-      <br>SQLite
-    </td>
+   
  </tr>
 </table>
 
