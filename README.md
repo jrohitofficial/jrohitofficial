@@ -51,7 +51,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="20" height="20" />
       <br>React
     </td>
     <td align="center" width="96">
@@ -91,7 +91,7 @@
   </tr>
   <tr>
   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="20" height="20" />
       <br>Django
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
@@ -128,7 +128,7 @@
   </tr>
  <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="20" height="20" alt="MongoDB" />
       <br>MongoDB
     </td>
         <td align="center" width="96">
