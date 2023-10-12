@@ -42,7 +42,6 @@
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40" /></a>
 </p>
----
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -164,11 +163,7 @@
     </td>
  </tr>
 </table>
-
-
-
-
-
+<br><br>
 
 
 <!-- activity graph heroku-app start -->
