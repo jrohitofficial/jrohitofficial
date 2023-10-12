@@ -45,6 +45,8 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40" /></a>
 </p>
 
+
+<p align="center">
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -166,6 +168,7 @@
  </tr>
 </table>
 <br><br>
+</p>
 
 
 <!-- activity graph heroku-app start -->
