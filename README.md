@@ -16,7 +16,7 @@
 
 <br/>
   
-### 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴:
+### 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
 
 [<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />][linkedin]
 
