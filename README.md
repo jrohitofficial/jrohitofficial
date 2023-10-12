@@ -46,7 +46,7 @@
 </p>
 
 
-<p align="center">
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -168,7 +168,7 @@
  </tr>
 </table>
 <br><br>
-</p>
+
 
 
 <!-- activity graph heroku-app start -->
