@@ -1,5 +1,7 @@
+<p align="center">
 <a href=#><img src="contributions.svg"></a>
-
+ </p>
+ 
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
   <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
