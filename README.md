@@ -30,7 +30,7 @@
 
 <br />
 
-## TECH STACK 💻
+## 🆃🅴🅲🅷 🆂🆃🅰🅲🅺 
 ---
 
 <p align="center">
