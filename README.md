@@ -17,18 +17,14 @@
 </p>
 
 <br/>
-
-
-### 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
-
 <img align="right" alt="https://www.buymeacoffee.com/getintorj" width="115" height="115" src="https://scontent.fktm8-1.fna.fbcdn.net/v/t39.30808-6/387831837_3438912186363643_4502077601601595927_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YL8Hwrd3dYgAX-Mgax4&_nc_ht=scontent.fktm8-1.fna&oh=00_AfAcpraC96tvyapYBTvttoFr4oESvYdGVx8NhHJiGy8yaQ&oe=652C74C9">
 
+### 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
 [<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />][linkedin]
 
 [<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" />][Instagram]
 
 [<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />][Facebook]
-
 
 [Linkedin]: https://www.linkedin.com/in/getintorj/
 [Instagram]: https://www.instagram.com/getintorj_/
@@ -36,7 +32,7 @@
 <br/>
 
 ## 🆃🅴🅲🅷 🆂🆃🅰🅲🅺 
----
+
 
 <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a>
