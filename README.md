@@ -4,10 +4,14 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getintorj&theme=dracula&layout=compact"width="47%"/>
-<!-- <img align="right" src="https://user-images.githubusercontent.com/36763164/155938198-731c072d-9864-47ae-b451-9dc55ea72a87.gif" width="35%" align="left"/> -->
-<img src="https://github-readme-stats.vercel.app/api?username=getintorj&theme=dracula&hide_border=false&include_all_commits=false&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=getintorj&theme=dracula&hide_border=false"/>
+
+<!--
+<a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+-->
+
+<a href="https://github.com/getintorj?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Getintorj&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+<a href="https://github.com/getintorj?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=PrinceGoblinTech&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+
 </p>
 
 <br/>
