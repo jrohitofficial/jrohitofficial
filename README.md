@@ -183,6 +183,7 @@
 
 ---
 <img align="right" alt="coding" width="300" height="300" src="https://scontent.fktm8-1.fna.fbcdn.net/v/t39.30808-6/387831837_3438912186363643_4502077601601595927_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YL8Hwrd3dYgAX-Mgax4&_nc_ht=scontent.fktm8-1.fna&oh=00_AfAcpraC96tvyapYBTvttoFr4oESvYdGVx8NhHJiGy8yaQ&oe=652C74C9">
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="getintorj" data-color="#ffbb00" data-emoji="☕"  data-font="Poppins" data-text="Buy Me A Coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
 
 
 #### 🅳🅰🆃🅰🅱🅰🆂🅴/🆂🆃🅰🆃🅴
