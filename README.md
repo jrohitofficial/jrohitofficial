@@ -1,7 +1,7 @@
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor Count<br>
   <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
   
 <p align="center">
