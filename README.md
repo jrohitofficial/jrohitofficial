@@ -102,8 +102,8 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="tailwind" />
-      <br>Tailwind
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="tailwind" />
+      <br>Android
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
@@ -142,8 +142,8 @@
       <br>SQLite
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="MySQL" />
-      <br>GraphQL
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
+      <br>Java
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
