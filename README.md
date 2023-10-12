@@ -3,6 +3,7 @@
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
   <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
+  </p>
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getintorj&theme=gotham&layout=compact"width="47%"/> 
