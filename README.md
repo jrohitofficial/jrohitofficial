@@ -1,7 +1,7 @@
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
-  Visitor Count<br>
+ 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
   <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
   
 <p align="center">
@@ -16,7 +16,7 @@
 
 <br/>
   
-### cₒₙₙₑct wᵢtₕ ₘₑ:
+### 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴:
 
 [<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />][linkedin]
 
