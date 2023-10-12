@@ -148,6 +148,12 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="icon" width="40" height="40" />
+      </a>
+      <br>SQLite
+    </td>
  </tr>
 </table>
 
