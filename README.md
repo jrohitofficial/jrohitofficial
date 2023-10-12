@@ -28,7 +28,7 @@
 
 <br />
 
-## Tech Stack 💻
+## TECH STACK 💻
 ---
 
 <p align="center">
