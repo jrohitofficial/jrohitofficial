@@ -174,7 +174,7 @@
 <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://jharohit.com.np/">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=getintorj&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=getintorj&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
@@ -183,7 +183,7 @@
 
 ---
 
-<img align="right" alt="https://www.buymeacoffee.com/getintorj" width="150" height="150" src="https://scontent.fktm8-1.fna.fbcdn.net/v/t39.30808-6/387831837_3438912186363643_4502077601601595927_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YL8Hwrd3dYgAX-Mgax4&_nc_ht=scontent.fktm8-1.fna&oh=00_AfAcpraC96tvyapYBTvttoFr4oESvYdGVx8NhHJiGy8yaQ&oe=652C74C9">
+<img align="right" alt="https://www.buymeacoffee.com/getintorj" width="150" height="150" src="https://scontent.fktm8-1.fna.fbcdn.net/v/t39.30808-6/387831837_3438912186363643_4502077601601595927_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YL8Hwrd3dYgAX-Mgax4&_nc_ht=scontent.fktm8-1.fna&oh=00_AfAcpraC96tvyapYBTvttoFr4oESvYdGVx8NhHJiGy8yaQ&oe=652C74C9&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo">
 
 #### 🅳🅰🆃🅰🅱🅰🆂🅴/🆂🆃🅰🆃🅴
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
