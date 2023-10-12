@@ -16,9 +16,9 @@
 
 
 <br/>
-### 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
 <img align="right" alt="https://www.buymeacoffee.com/getintorj" width="120" height="120" src="https://scontent.fktm8-1.fna.fbcdn.net/v/t39.30808-6/387831837_3438912186363643_4502077601601595927_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YL8Hwrd3dYgAX-Mgax4&_nc_ht=scontent.fktm8-1.fna&oh=00_AfAcpraC96tvyapYBTvttoFr4oESvYdGVx8NhHJiGy8yaQ&oe=652C74C9">
 
+### 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
 [<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />][linkedin]
 
 [<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" />][Instagram]
@@ -28,7 +28,6 @@
 [Linkedin]: https://www.linkedin.com/in/getintorj/
 [Instagram]: https://www.instagram.com/getintorj_/
 [Facebook]: https://www.facebook.com/getintorj
-
 <br />
 
 ## 🆃🅴🅲🅷 🆂🆃🅰🅲🅺 
