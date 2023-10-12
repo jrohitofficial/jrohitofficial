@@ -180,7 +180,10 @@
 <!-- activity graph heroku-app end -->
 
 
+
 ---
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 #### 🅳🅰🆃🅰🅱🅰🆂🅴/🆂🆃🅰🆃🅴
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
