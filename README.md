@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/getintorj">
-    <img src="🅡🅞🅗🅘🅣 🅙🅗🅐" alt="Rohit Jha" /></a>
+    <img src="https://scontent.fktm8-1.fna.fbcdn.net/v/t39.30808-6/387861073_3439610039627191_7407877638107456158_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gve-XYtftFcAX9q0-u0&_nc_oc=AQkwLuU0Q-Es8RRF9IxJ7CogJivJXudPChwMk7U3-aEwpVqQaacLWUF6lmlS73heVeyznyOeXD1tNYZZaQPBer7b&_nc_ht=scontent.fktm8-1.fna&oh=00_AfDhCAqjHMxyaSM7wdF8KjH4VG1XWx-7xbNegsiB6cKRfQ&oe=652ED099" alt="🅡🅞🅗🅘🅣 🅙🅗🅐" /></a>
 </p>
 
 <p align="center">
