@@ -7,7 +7,7 @@
 <p align="center">
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
   <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20And%20App%20Developer;Experienced%20UI%2FUX%20Designer;3%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20;Full-Stack%20Web%20And%20App%20Developer;Experienced%20UI%2FUX%20Designer;3%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
