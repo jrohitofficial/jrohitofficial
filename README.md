@@ -1,6 +1,7 @@
 <p align="center">
-  <a href="https://github.com/getintorj">
-    <img src="https://scontent.fktm8-1.fna.fbcdn.net/v/t39.30808-6/387861073_3439610039627191_7407877638107456158_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gve-XYtftFcAX9q0-u0&_nc_oc=AQkwLuU0Q-Es8RRF9IxJ7CogJivJXudPChwMk7U3-aEwpVqQaacLWUF6lmlS73heVeyznyOeXD1tNYZZaQPBer7b&_nc_ht=scontent.fktm8-1.fna&oh=00_AfDhCAqjHMxyaSM7wdF8KjH4VG1XWx-7xbNegsiB6cKRfQ&oe=652ED099" alt="🅡🅞🅗🅘🅣 🅙🅗🅐" /></a>
+  <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
+  <a href="https://github.com/getintorj/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=ROHIT%20JHA&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p align="center">
