@@ -1,8 +1,3 @@
-<p align="center">
-  <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
-  <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=ROHIT%20JHA&font=Fira%20Code&center=true&width=500&height=45&color=20C20E&vCenter=true&pause=1000&size=50" /></a>
-</p>
 
 <p align="center">
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
