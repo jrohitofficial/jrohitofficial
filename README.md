@@ -31,7 +31,7 @@
 <br/>
 <img align="right" alt="https://www.buymeacoffee.com/getintorj" width="115" height="115" src="https://scontent.fktm8-1.fna.fbcdn.net/v/t39.30808-6/387831837_3438912186363643_4502077601601595927_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YL8Hwrd3dYgAX-Mgax4&_nc_ht=scontent.fktm8-1.fna&oh=00_AfAcpraC96tvyapYBTvttoFr4oESvYdGVx8NhHJiGy8yaQ&oe=652C74C9">
 
-### 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
+### 🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
 [<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />][linkedin]
 
 [<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" />][Instagram]
@@ -43,7 +43,7 @@
 [Facebook]: https://www.facebook.com/getintorj
 <br/>
 
-## 🆃🅴🅲🅷 🆂🆃🅰🅲🅺 
+## 🅣🅔🅒🅗 🅢🅣🅐🅒🅚
 
 <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a>
@@ -195,25 +195,25 @@
 
 ---
 
-#### 🅳🅰🆃🅰🅱🅰🆂🅴/🆂🆃🅰🆃🅴
+#### 🅓🅐🅣🅐 🅑🅐🅢🅔 / 🅢🅣🅐🅣🅔
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)
 
 
-#### 🆆🅴🅱 🅷🅾🆂🆃🅸🅽🅶
+#### 🅦🅔🅑 🅗🅞🅢🅣🅘🅝🅖
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
-#### 🅲🅸/🅲🅳
+#### 🅒🅘 / 🅒🅓
 ![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
 ![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)
 
-#### 🆅🅴🆁🆂🅸🅾🅽 🅲🅾🅽🆃🆁🅾🅻
+#### 🅥🅔🅡🅢🅘🅞🅝 🅒🅞🅝🅣🅡🅞🅛
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
