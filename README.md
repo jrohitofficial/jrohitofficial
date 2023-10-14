@@ -11,6 +11,7 @@
  </p>
 
 <p align="center">
+  🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
 <a href="https://www.buymeacoffee.com/getintorj" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
 <a href="https://jharohit.com.np" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://twitter.com/getintorj_" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
@@ -34,18 +35,6 @@
 <a href="https://github.com/getintorj?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=getintorj&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
 
-<br/>
-
-#### 🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
-[<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />][linkedin]
-
-[<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" />][Instagram]
-
-[<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />][Facebook]
-
-[Linkedin]: https://www.linkedin.com/in/getintorj/
-[Instagram]: https://www.instagram.com/getintorj_/
-[Facebook]: https://www.facebook.com/getintorj
 <br/>
 
 
