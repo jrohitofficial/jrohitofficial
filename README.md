@@ -39,8 +39,10 @@
 [Facebook]: https://www.facebook.com/getintorj
 <br/>
 
-#### 🅣🅔🅒🅗 🅢🅣🅐🅒🅚
 
+<p align="center"> 
+ 🅣🅔🅒🅗 🅢🅣🅐🅒🅚<br>
+  </p>
 <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
