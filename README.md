@@ -5,11 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20of%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-
-<p align="center">
-<a href=#><img src="contributions.svg"></a> 
- </p>
-
 <p align="center">
   🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
    </p>
@@ -21,6 +16,10 @@
 <a href="https://instagram.com/getintorj_" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
  </p>
 
+
+<p align="center">
+<a href=#><img src="contributions.svg"></a> 
+ </p>
 
  
 <p align="center"> 
@@ -39,7 +38,6 @@
 
 <br/>
 
-
 <p align="center"> 
  🅣🅔🅒🅗 🅢🅣🅐🅒🅚<br>
   </p>
@@ -54,8 +52,6 @@
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40" /></a>
 </p>
-
-
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
