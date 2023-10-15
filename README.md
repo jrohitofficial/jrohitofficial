@@ -231,7 +231,7 @@ if (codeWorking){
                 codeQuality++;
             }
         }
-// - Rohit Jha
+// - ROHIT JHA
 ```
 
 
