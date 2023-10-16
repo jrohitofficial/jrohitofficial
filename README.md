@@ -20,15 +20,15 @@
 <a href="https://facebook.com/getintorj" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
 <a href="https://replit.com/@getintorj" target="_blank"><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a>
 <a href="https://codepen.io/getintorj" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
+</p>
 
+  
   `GETINTORJ`
 ![GitHub stars](https://img.shields.io/github/stars/lucthienphong1120?style=social)
 `Coding Reshape Future`
 ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrw-zlFbUUGfXxJbEnXKvTQ?style=social)
 `CRF Community`
 ![YouTube Views](https://img.shields.io/youtube/channel/views/UCrw-zlFbUUGfXxJbEnXKvTQ?style=social)
-</p>
-
 
 
 
