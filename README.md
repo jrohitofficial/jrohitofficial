@@ -22,14 +22,14 @@
 <a href="https://codepen.io/getintorj" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
 </p>
 
-<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 `GETINTORJ`
-![GitHub stars](https://img.shields.io/github/stars/getintorj?style=social)
+![GitHub stars](https://img.shields.io/github/stars/lucthienphong1120?style=social)
 `Coding Reshape Future`
 ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrw-zlFbUUGfXxJbEnXKvTQ?style=social)
 `CRF Community`
 ![YouTube Views](https://img.shields.io/youtube/channel/views/UCrw-zlFbUUGfXxJbEnXKvTQ?style=social)
-</p>
 
 <p align="center">
 <a href=#><img src="contributions.svg"></a> 
