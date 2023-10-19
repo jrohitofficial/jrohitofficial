@@ -196,7 +196,7 @@
 
 <p align="center">
     <a href="https://github.com/getintorj/getintorj">
-        <img src="https://github-profile-trophy.vercel.app/?username=getintorj&column=-1&theme=react-dark" />
+        <img src="https://github-profile-trophy.vercel.app/?username=getintorj&column=-1&width="96%"&theme="gotham" />
     </a>
 </p>
 
