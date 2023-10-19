@@ -185,6 +185,11 @@
 <br><br>
 
 
+<p align="center">
+    <a href="https://github.com/rayhankinan/rayhankinan">
+        <img src="https://github-profile-trophy.vercel.app/?username=rayhankinan&column=-1&theme=dracula" />
+    </a>
+</p>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
