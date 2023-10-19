@@ -185,11 +185,6 @@
 <br><br>
 
 
-<p align="center">
-    <a href="https://github.com/getintorj/getintorj">
-        <img src="https://github-profile-trophy.vercel.app/?username=getintorj&column=-1&theme=dracula" />
-    </a>
-</p>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
@@ -198,6 +193,12 @@
     </a>
 </p>
 <!-- activity graph heroku-app end -->
+
+<p align="center">
+    <a href="https://github.com/getintorj/getintorj">
+        <img src="https://github-profile-trophy.vercel.app/?username=getintorj&column=-1&theme=react-dark" />
+    </a>
+</p>
 
 
 
