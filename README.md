@@ -186,8 +186,8 @@
 
 
 <p align="center">
-    <a href="https://github.com/rayhankinan/rayhankinan">
-        <img src="https://github-profile-trophy.vercel.app/?username=rayhankinan&column=-1&theme=dracula" />
+    <a href="https://github.com/getintorj/getintorj">
+        <img src="https://github-profile-trophy.vercel.app/?username=getintorj&column=-1&theme=dracula" />
     </a>
 </p>
 
