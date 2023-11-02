@@ -236,13 +236,21 @@
 
 ---
 
-``` java
-if (codeWorking){
-            while (codeQuality < perfectCode){
-                codeQuality++;
-            }
-        }
-// - ROHIT JHA
+``` 
+// Check if the code is functioning correctly
+if (isCodeWorking) {
+    // Continuously improve the code quality until it reaches perfection
+    while (codeQuality < perfection) {
+        codeQuality++; // Increment code quality
+    }
+}
+
+while(alive) {
+  eat();
+  sleep();
+  code();
+}
+// - RJ's
 ```
 
 <hr />
