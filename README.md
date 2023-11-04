@@ -23,6 +23,8 @@
 <a href="https://facebook.com/getintorj" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
 <a href="https://replit.com/@getintorj" target="_blank"><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a>
 <a href="https://codepen.io/getintorj" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
+<a href="https://www.youtube.com/@BisKIRANVLOG" target="_blank"><img alt="" src="https://img.shields.io/badge/You%20Tube-FE8200?style=for-the-badge&logo=youtube&logoColor=red" style="vertical-align:center" /></a>
+<a href="mailto:getintorj@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-EA4335?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
 </p>
 
 
