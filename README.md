@@ -62,8 +62,8 @@
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40" /></a>
-<a href="https://www.linux.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="linux" width="40" height="40" /></a>
-  <a href="https://www.apple.com/macos/sonoma/" target="_blank"><img src="https://www.svgrepo.com/show/349442/macos.svg" alt="macos" width="40" height="40" /></a>
+<a href="https://www.linux.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="linux" width="45" height="45" /></a>
+  <a href="https://www.apple.com/macos/sonoma/" target="_blank"><img src="macbook-pro-macos-high-sierra-macos-sierra-content-1b9700a7b70c72a5ded1e2736efeb1d0-removebg-preview.png" alt="macos" width="40" height="40" /></a>
 </p>
 
 <div style="display: flex; align-items: flex-start; align: center">
