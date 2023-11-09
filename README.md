@@ -1,6 +1,5 @@
 <p align="center">
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 45px align="center"></picture><b></b>
-  href="https://jharohit.com.np"
 </p>
 
 <p align="center">
