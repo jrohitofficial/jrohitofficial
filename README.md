@@ -1,28 +1,3 @@
-# 🌟 Celebrate the Radiance of Diwali and the Serenity of Chhath 🌅
-
-Welcome to this festive repository! Let's rejoice in the spirit of Diwali and Chhath Puja.
-
-## ✨ Happy Diwali
-
-Wishing you a Diwali filled with laughter, light, and love! May the glow of diyas illuminate your path to success and happiness.
-
-![Diwali Lights](insert_diwali_image_url_here)
-
-## 🌅 Chhath Puja Blessings
-
-Embrace the tranquility of Chhath Puja. May the rising sun bring prosperity, and may your prayers be as timeless as the river's flow.
-
-![Chhath Sunrise](insert_chhath_image_url_here)
-
----
-
-Feel the festive vibes! Customize this space, add your own sparkle, and let the code of celebration unite us. Happy coding and joyful festivities! 🎉
-
-
-
-<p align="center">
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 45px align="center"></picture><b></b>
-</p>
 
 <p align="center">
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
