@@ -52,19 +52,6 @@
 <p align="center"> 
  🅣🅔🅒🅗 🅢🅣🅐🅒🅚<br>
   </p>
-<p align="center">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
-  <a href="https://d3js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" /></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
-  <a href="https://www.gatsbyjs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40" /></a>
-  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40" /></a>
-<a href="https://www.linux.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="linux" width="45" height="45" /></a>
-  <a href="https://www.apple.com/macos/sonoma/" target="_blank"><img src="https://github.com/OracleBrain/getintorj/blob/19f6e2f6f4133a61f1e4826d4b58c997ce55be24/macbook-pro-macos-high-sierra-macos-sierra-content-1b9700a7b70c72a5ded1e2736efeb1d0-removebg-preview.png" alt="macos" width="40" height="40" /></a>
-</p>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -106,9 +93,17 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
       <br>C#
+        </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="tailwind" />
+      <br>Tailwind
+    </td>
+     </td>
+      </td>
     </td>
   </tr>
   <tr>
+   </td>
   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
       <br>Django
@@ -143,6 +138,11 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
       <br>jQuery
+       </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="40" height="40" alt="Sass" />
+      <br>Sass
+    </td>
     </td>
   </tr>
  <tr>
@@ -183,11 +183,63 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
       <br>PostgreSQL
+        </td>
+              <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="40" height="40" alt="Postman" />
+      <br>Postman
+    </td>
     </td>
  </tr>
+               <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue" />
+      <br>Vue
+      </td>
+              <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" alt="Azure" />
+      <br>Azure
+    </td>
+       </td>
+              <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash" />
+      <br>Bash
+    </td>
+    </td>
+              <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="40" height="40" alt="D3js" />
+      <br>D3js
+    </td>
+    </td>
+              <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" />
+      <br>Express
+    </td>
+     </td>
+              <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" width="40" height="40" alt="Gatsby" />
+      <br>Gatsby
+    </td>
+    </td>
+              <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40" alt="Heroku" />
+      <br>Heroku
+    </td>
+     </td>
+              <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt="Dotnet" />
+      <br>Dotnet
+    </td>
+     </td>
+              <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="Flask" />
+      <br>Flask
+    </td>
+    </td>
+              <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" alt="Microsoft SQL Server" />
+      <br>Microsoft SQL Server
+    </td>
 </table>
 <br><br>
-
 
 
 <!-- activity graph heroku-app start -->
