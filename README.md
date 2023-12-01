@@ -234,6 +234,28 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
+<details>
+  <summary>Skills</summary>
+
+- Problem Solving
+- Youtuber
+- Blogging
+- Web Content Writing
+- Video Editing
+- Blogger
+- Researching $ Learning
+</details>
+
+<details>
+  <summary>Hobbies</summary>
+🍽️ 🛌 👨🏻‍💻 🔁 
+</br> 
+  🌏 Traveling
+  📚 Learning
+  🎮 Games
+  🎧 Listening to Music
+</details>
+
 
 
 ---
