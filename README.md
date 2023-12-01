@@ -248,7 +248,6 @@
 
 <details>
   <summary>Hobbies</summary>
-🍽️ 🛌 👨🏻‍💻 🔁 
 </br> 
   🌏 Traveling
   📚 Learning
