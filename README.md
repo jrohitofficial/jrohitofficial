@@ -1,8 +1,4 @@
-<div align="center">
-  
-  ![Collect Trump Cards Dot Com NFT Crypto Collectible](https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg)
-  
-</div>
+
 <p align="center">
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
   <a href="https://github.com/getintorj/readme-typing-svg">
