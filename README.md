@@ -2,14 +2,7 @@
 <p align="center">
   
 <img align="center" alt="jharohit.com.np" width="150" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=ff0000&size=15&lines=।।+तप+त्याग+तांडव+।।&&%20Code&center=true&width=440&height=15&vCenter=true&pause=1000&size=15" />
-  <img alt="jharohit.com.np" width="150" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
-</div>
-
-
-                                                                                                          
+                                                                                             
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
