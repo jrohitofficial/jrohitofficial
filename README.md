@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/getintorj"><img src="contributions.svg" width="400"></a>
+  <a href="https://github.com/getintorj"><img src="contributions.svg"></a>
 </p>
 
 
