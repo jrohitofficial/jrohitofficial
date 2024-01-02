@@ -1,9 +1,8 @@
 
 <p align="center">
   
-<img style="display: block; margin: 0 auto;" alt="jharohit.com.np" width="150" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
-
-                                                       
+<img align="center" alt="jharohit.com.np" width="150" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+                                                                                                          
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
