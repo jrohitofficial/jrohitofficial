@@ -37,9 +37,7 @@
 </p>
 
 
-<p align="center">
-<a href=#><img src="contributions.svg"></a> 
- </p>
+
 
  
 <p align="center"> 
