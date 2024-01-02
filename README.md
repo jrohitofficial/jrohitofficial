@@ -6,7 +6,7 @@
 <div style="display: flex; justify-content: space-between;">
   <img align="right" alt="jharohit.com.np" width="150" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
   <p align="left">
-    <a href="https://github.com/getintorj"><img src="contributions.svg" width="200"></a>
+    <a href="https://github.com/getintorj"><img src="contributions.svg" width="300"></a>
   </p>
 </div>
 
