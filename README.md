@@ -4,9 +4,7 @@
 <img align="center" alt="http://readme-typing-svg.demolab.com" width="150" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
 
 
-<a href="https://jharohit.com.np">
-    <img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Final.png" alt="Clickable Image">
-</a>
+
 
 
                                                                                              
@@ -19,7 +17,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
 </a>
 
-<img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Final.png">
+<a href="https://jharohit.com.np">
+    <img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Final.png" alt="Clickable Image">
+</a>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
