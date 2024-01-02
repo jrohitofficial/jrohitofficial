@@ -59,6 +59,12 @@
 <a href="https://github.com/getintorj?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=getintorj&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/getintorj"><img src="contributions.svg" width="100"></a>
+</p>
+
+
+
 <br/>
 
 <p align="center"> 
