@@ -3,9 +3,14 @@
   
 <img align="center" alt="jharohit.com.np" width="150" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
 
-<p align="center">
-  <a href="https://github.com/getintorj"><img src="contributions.svg" width="400"></a>
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <div align="left">
+    <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=।।+तप+त्याग+तांडव+।।&&%20Code&center=true&width=440&height=15&vCenter=true&pause=1000&size=15" />
+  </div>
+  <div align="right">
+    <img align="center" alt="jharohit.com.np" width="150" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+  </div>
+</div>
 
                                                                                                           
 
