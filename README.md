@@ -1,7 +1,5 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=ROHIT+JHA&&%20Code&center=true&width=440&height=45&vCenter=true&pause=1000&size=22" />
-
   
 <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=।।+तप+त्याग+तांडव+।।&&%20Code&center=true&width=440&height=45&vCenter=true&pause=1000&size=22" />
 
