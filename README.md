@@ -1,6 +1,4 @@
 
-<p align="center">
-  
 
 <p align="center">
     <a href="http://jrohit.com.np" target="_blank">
