@@ -4,7 +4,6 @@
     <a href="http://jrohit.com.np" target="_blank">
         <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
     </a>
-</p>
 
 
                                                                                              
