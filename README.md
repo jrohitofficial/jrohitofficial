@@ -1,6 +1,9 @@
 
 
-
+<p align="center">
+    <a href="http://jrohit.com.np" target="_blank">
+        <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://www.canva.com/design/DAF49OZx6bw/V0ascwYte4A5PEt4tuqO1A/watch?utm_content=DAF49OZx6bw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel">
+    </a>
 
 
 
