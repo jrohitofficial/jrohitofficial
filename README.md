@@ -1,21 +1,41 @@
 
-<!-- Analog Clock SVG -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="150" height="150">
-  <!-- Clock Face -->
-  <circle cx="50" cy="50" r="45" stroke="black" stroke-width="3" fill="white" />
+<p align="center">
+    <a href="http://jrohit.com.np" target="_blank">
+        <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+    </a>
+</p>
 
-  <!-- Hour Hand -->
-  <line x1="50" y1="50" x2="50" y2="30" stroke="black" stroke-width="4" />
+<!-- Real-time Clock -->
+<p align="center">
+  <span id="real-time-clock"></span>
+</p>
 
-  <!-- Minute Hand -->
-  <line x1="50" y1="50" x2="50" y2="20" stroke="black" stroke-width="2" />
+<script>
+  // Function to update real-time clock
+  function updateRealTimeClock() {
+    const now = new Date();
+    const hours = now.getHours().toString().padStart(2, '0');
+    const minutes = now.getMinutes().toString().padStart(2, '0');
+    const seconds = now.getSeconds().toString().padStart(2, '0');
+    
+    const clockDisplay = `${hours}:${minutes}:${seconds}`;
+    document.getElementById('real-time-clock').innerText = clockDisplay;
+  }
 
-  <!-- Second Hand -->
-  <line x1="50" y1="50" x2="50" y2="25" stroke="red" stroke-width="1" />
+  // Update clock every second
+  setInterval(updateRealTimeClock, 1000);
 
-  <!-- Center Dot -->
-  <circle cx="50" cy="50" r="2" fill="black" />
-</svg>
+  // Initial update
+  updateRealTimeClock();
+</script>
+
+<!-- Continue with your existing content -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Your other images -->
+
+
+
 
 
 
@@ -24,8 +44,6 @@
     <a href="http://jrohit.com.np" target="_blank">
         <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
     </a>
-
-
                                                                                              
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
