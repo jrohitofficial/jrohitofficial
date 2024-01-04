@@ -30,7 +30,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     .gradient-text {
-      background: linear-gradient(to right, #FFD700, #20C20E); /* Change gradient colors as needed */
+      background: linear-gradient(to right, FFD700, 20C20E); /* Change gradient colors as needed */
       -webkit-background-clip: text;
       color: transparent;
       display: inline-block;
