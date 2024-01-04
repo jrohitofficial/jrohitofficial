@@ -23,6 +23,7 @@
 </a>
 
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -30,7 +31,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     .gradient-text {
-      background: linear-gradient(to right, FFD700, 20C20E); /* Change gradient colors as needed */
+      background: linear-gradient(90deg, ff9900, 00ccff); /* Adjust the gradient colors as per your preference */
+      background-clip: text;
       -webkit-background-clip: text;
       color: transparent;
       display: inline-block;
@@ -38,29 +40,21 @@
   </style>
 </head>
 <body>
-
-<a href="https://github.com/getintorj/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&vCenter=true&pause=1000&size=22" alt="Typing SVG">
-</a>
-
-<script>
-  // Wrap each word in a span with the gradient-text class
-  document.addEventListener('DOMContentLoaded', function () {
-    var lines = document.querySelector('img').getAttribute('alt').split(';');
-    var newLines = lines.map(function (line) {
-      var words = line.split(' ');
-      var newWords = words.map(function (word) {
-        return '<span class="gradient-text">' + word + '</span>';
-      });
-      return newWords.join(' ');
-    });
-    document.querySelector('img').setAttribute('alt', newLines.join(';'));
-  });
-</script>
-
+  <a href="https://github.com/getintorj/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=
+      <span class='gradient-text'>SOFTWARE</span>%20ENGINEER%20;
+      <span class='gradient-text'>ETHICAL</span>%20HACKER%20;
+      <span class='gradient-text'>FULL-STACK</span>%20WEB%20AND%20APP%20DEVELOPER;
+      <span class='gradient-text'>ARTIFICIAL</span>%20INTELLIGENCE%20(AI);
+      <span class='gradient-text'>PROGRAMMER</span>%20;
+      <span class='gradient-text'>YOUTUBER</span>%20;
+      <span class='gradient-text'>EXPERIENCED</span>%20UI%2FUX%20DESIGNER;
+      <span class='gradient-text'>3%2B</span>%20YEAR's%20OF%20CODING%20EXPERIENCE;
+      <span class='gradient-text'>ALWAYS</span>%20LEARNING%20NEW%20THINGS
+    &font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+  </a>
 </body>
 </html>
-
 
 
 
