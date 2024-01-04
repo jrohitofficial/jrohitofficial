@@ -1,4 +1,11 @@
-
+<p align="center">
+    <a href="http://jrohit.com.np" target="_blank">
+        <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://github.com/getintorj/getintorj/blob/master/2.png?raw=true">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
+    <a href="http://jrohit.com.np" target="_blank">
+        <img alt="http://readme-typing-svg.demolab.com" width="170" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+    </a>
 
                                                                                          
 
@@ -14,19 +21,6 @@
 <a href="https://github.com/getintorj/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
 </a>
-
-<p align="center">
-    <a href="http://jrohit.com.np" target="_blank">
-        <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://github.com/getintorj/getintorj/blob/master/2.png?raw=true">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
-    <a href="http://jrohit.com.np" target="_blank">
-        <img alt="http://readme-typing-svg.demolab.com" width="170" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
-    </a>
-
-
-
-
 
 
 
@@ -74,6 +68,8 @@
 <a href="https://github.com/getintorj?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=getintorj&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Getintorj's github-readme-stats"/></a>
 <a href="https://github.com/getintorj?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=getintorj&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
+
+
 
 <!-- <p align="center">
   <a href="https://github.com/getintorj"><img src="contributions.svg"></a> -->
