@@ -4,7 +4,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
     <a href="http://jrohit.com.np" target="_blank">
-        <img alt="http://readme-typing-svg.demolab.com" width="200" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+        <img alt="http://readme-typing-svg.demolab.com" width="1800" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
     </a>
 </p>
 
@@ -12,11 +12,7 @@
 
 
 
-
-<p align="center">
-    <a href="http://jrohit.com.np" target="_blank">
-        <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
-    </a>
+    
                                                                                              
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
