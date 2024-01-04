@@ -1,38 +1,4 @@
 
-<p align="center">
-    <a href="http://jrohit.com.np" target="_blank">
-        <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
-    </a>
-</p>
-
-<!-- Real-time Clock -->
-<p align="center">
-  <span id="real-time-clock"></span>
-</p>
-
-<script>
-  // Function to update real-time clock
-  function updateRealTimeClock() {
-    const now = new Date();
-    const hours = now.getHours().toString().padStart(2, '0');
-    const minutes = now.getMinutes().toString().padStart(2, '0');
-    const seconds = now.getSeconds().toString().padStart(2, '0');
-    
-    const clockDisplay = `${hours}:${minutes}:${seconds}`;
-    document.getElementById('real-time-clock').innerText = clockDisplay;
-  }
-
-  // Update clock every second
-  setInterval(updateRealTimeClock, 1000);
-
-  // Initial update
-  updateRealTimeClock();
-</script>
-
-<!-- Continue with your existing content -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Your other images -->
 
 
 
