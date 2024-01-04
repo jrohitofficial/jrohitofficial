@@ -22,9 +22,44 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
 </a>
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .gradient-text {
+      background: linear-gradient(to right, #FFD700, #20C20E); /* Change gradient colors as needed */
+      -webkit-background-clip: text;
+      color: transparent;
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+
 <a href="https://github.com/getintorj/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%20SOFTWARE%20ENGINEER%20;%20ETHICAL%20HACKER%20;%20FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;%20ARTIFICIAL%20INTELLIGENCE%20(AI);%20PROGRAMMER%20;%20YOUTUBER%20;%20EXPERIENCED%20UI%2FUX%20DESIGNER;%203%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;%20ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=%2320C20E|%23FFFF00|%2320C20E|%23FFFF00|%2320C20E|%23FFFF00|%2320C20E|%23FFFF00|%2320C20E|%23FFFF00|%2320C20E|%23FFFF00|%2320C20E|%23FFFF00|%2320C20E|%23FFFF00|%2320C20E|%23FFFF00|%2320C20E|%23FFFF00&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&vCenter=true&pause=1000&size=22" alt="Typing SVG">
 </a>
+
+<script>
+  // Wrap each word in a span with the gradient-text class
+  document.addEventListener('DOMContentLoaded', function () {
+    var lines = document.querySelector('img').getAttribute('alt').split(';');
+    var newLines = lines.map(function (line) {
+      var words = line.split(' ');
+      var newWords = words.map(function (word) {
+        return '<span class="gradient-text">' + word + '</span>';
+      });
+      return newWords.join(' ');
+    });
+    document.querySelector('img').setAttribute('alt', newLines.join(';'));
+  });
+</script>
+
+</body>
+</html>
 
 
 
