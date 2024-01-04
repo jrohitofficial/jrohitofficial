@@ -1,44 +1,70 @@
 <p align="center">
     <a href="http://jrohit.com.np" target="_blank">
-        <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://github.com/getintorj/getintorj/blob/master/2.png?raw=true">
+        <img alt="Profile Image 1" width="150" src="https://github.com/getintorj/getintorj/blob/master/2.png?raw=true">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="http://jrohit.com.np" target="_blank">
-        <img alt="http://readme-typing-svg.demolab.com" width="170" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+        <img alt="Profile Image 2" width="170" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
     </a>
 </p>
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+<!-- Add more elements as needed -->
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=green&amp;size=15&amp;lines=¦+રોહિત+¦&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=12" />
+  🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
 </p>
 
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=।।+तप+त्याग+तांडव+।।&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=15" />
-</p>
+<!-- Add more elements as needed -->
 
 <p align="center">
-    <a href="https://github.com/getintorj/readme-typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+  <a href="https://www.buymeacoffee.com/getintorj" target="_blank">
+    <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" />
+  </a>
+  <!-- Add more badges and links as needed -->
+</p>
+
+<!-- Add more sections as needed -->
+
+<p align="center"> 
+ 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
+  <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
+</p>
+
+<!-- Add more sections as needed -->
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getintorj&theme=gotham&layout=compact" width="47%" />
+</p>
+
+<!-- Add more sections as needed -->
+
+<p align="center">
+    <a href="https://github.com/getintorj?tab=repositories">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=getintorj&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Getintorj's github-readme-stats"/>
+    </a>
+    <a href="https://github.com/getintorj?tab=stars">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=getintorj&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@RJ's github-readme-streak-stats"/>
     </a>
 </p>
 
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=
-      <span class='gradient-text'>SOFTWARE</span>%20ENGINEER%20;
-      <span class='gradient-text'>ETHICAL</span>%20HACKER%20;
-      <span class='gradient-text'>FULL-STACK</span>%20WEB%20AND%20APP%20DEVELOPER;
-      <span class='gradient-text'>ARTIFICIAL</span>%20INTELLIGENCE%20(AI);
-      <span class='gradient-text'>PROGRAMMER</span>%20;
-      <span class='gradient-text'>YOUTUBER</span>%20;
-      <span class='gradient-text'>EXPERIENCED</span>%20UI%2FUX%20DESIGNER;
-      <span class='gradient-text'>3%2B</span>%20YEAR's%20OF%20CODING%20EXPERIENCE;
-      <span class='gradient-text'>ALWAYS</span>%20LEARNING%20NEW%20THINGS
-    &font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
-</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -74,8 +100,6 @@
 <a href="https://github.com/getintorj/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
 </a>
-
-
 
 
 
