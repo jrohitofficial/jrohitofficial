@@ -6,6 +6,59 @@
     <a href="http://jrohit.com.np" target="_blank">
         <img alt="http://readme-typing-svg.demolab.com" width="170" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
     </a>
+</p>
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=green&amp;size=15&amp;lines=¦+રોહિત+¦&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=12" />
+</p>
+
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=।।+तप+त्याग+तांडव+।।&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=15" />
+</p>
+
+<p align="center">
+    <a href="https://github.com/getintorj/readme-typing-svg">
+        <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+    </a>
+</p>
+
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=
+      <span class='gradient-text'>SOFTWARE</span>%20ENGINEER%20;
+      <span class='gradient-text'>ETHICAL</span>%20HACKER%20;
+      <span class='gradient-text'>FULL-STACK</span>%20WEB%20AND%20APP%20DEVELOPER;
+      <span class='gradient-text'>ARTIFICIAL</span>%20INTELLIGENCE%20(AI);
+      <span class='gradient-text'>PROGRAMMER</span>%20;
+      <span class='gradient-text'>YOUTUBER</span>%20;
+      <span class='gradient-text'>EXPERIENCED</span>%20UI%2FUX%20DESIGNER;
+      <span class='gradient-text'>3%2B</span>%20YEAR's%20OF%20CODING%20EXPERIENCE;
+      <span class='gradient-text'>ALWAYS</span>%20LEARNING%20NEW%20THINGS
+    &font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+    <a href="http://jrohit.com.np" target="_blank">
+        <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://github.com/getintorj/getintorj/blob/master/2.png?raw=true">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
+    <a href="http://jrohit.com.np" target="_blank">
+        <img alt="http://readme-typing-svg.demolab.com" width="170" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+    </a>
 
                                                                                          
 
@@ -24,37 +77,6 @@
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .gradient-text {
-      background: linear-gradient(90deg, ff9900, 00ccff); /* Adjust the gradient colors as per your preference */
-      background-clip: text;
-      -webkit-background-clip: text;
-      color: transparent;
-      display: inline-block;
-    }
-  </style>
-</head>
-<body>
-  <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=
-      <span class='gradient-text'>SOFTWARE</span>%20ENGINEER%20;
-      <span class='gradient-text'>ETHICAL</span>%20HACKER%20;
-      <span class='gradient-text'>FULL-STACK</span>%20WEB%20AND%20APP%20DEVELOPER;
-      <span class='gradient-text'>ARTIFICIAL</span>%20INTELLIGENCE%20(AI);
-      <span class='gradient-text'>PROGRAMMER</span>%20;
-      <span class='gradient-text'>YOUTUBER</span>%20;
-      <span class='gradient-text'>EXPERIENCED</span>%20UI%2FUX%20DESIGNER;
-      <span class='gradient-text'>3%2B</span>%20YEAR's%20OF%20CODING%20EXPERIENCE;
-      <span class='gradient-text'>ALWAYS</span>%20LEARNING%20NEW%20THINGS
-    &font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
-  </a>
-</body>
-</html>
 
 
 
