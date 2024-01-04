@@ -1,11 +1,9 @@
 
-
 <p align="center">
     <a href="http://jrohit.com.np" target="_blank">
-        <img alt="[http://readme-typing-svg.demolab.com](https://www.canva.com/design/DAF49OZx6bw/V0ascwYte4A5PEt4tuqO1A/watch?utm_content=DAF49OZx6bw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)" width="150" src="https://www.canva.com/design/DAF49OZx6bw/V0ascwYte4A5PEt4tuqO1A/watch?utm_content=DAF49OZx6bw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel">
+        <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://github.com/getintorj/getintorj/blob/master/getintorj%20(1).gif?raw=true">
     </a>
-
-
+           
 
 
 
