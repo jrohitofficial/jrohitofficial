@@ -2,7 +2,7 @@
     <a href="http://jrohit.com.np" target="_blank">
         <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://github.com/getintorj/getintorj/blob/master/2.png?raw=true">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
     <a href="http://jrohit.com.np" target="_blank">
         <img alt="http://readme-typing-svg.demolab.com" width="180" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
     </a>
