@@ -1,10 +1,4 @@
 
-<p align="center">
-    <a href="http://jrohit.com.np" target="_blank">
-        <img alt="http://readme-typing-svg.demolab.com" src="https://github.com/getintorj/getintorj/blob/master/getintorj%20(2).gif?raw=true">
-    </a>
-           
-
 
 
 <p align="center">
