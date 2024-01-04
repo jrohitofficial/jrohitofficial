@@ -1,4 +1,24 @@
 
+<!-- Analog Clock SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="150" height="150">
+  <!-- Clock Face -->
+  <circle cx="50" cy="50" r="45" stroke="black" stroke-width="3" fill="white" />
+
+  <!-- Hour Hand -->
+  <line x1="50" y1="50" x2="50" y2="30" stroke="black" stroke-width="4" />
+
+  <!-- Minute Hand -->
+  <line x1="50" y1="50" x2="50" y2="20" stroke="black" stroke-width="2" />
+
+  <!-- Second Hand -->
+  <line x1="50" y1="50" x2="50" y2="25" stroke="red" stroke-width="1" />
+
+  <!-- Center Dot -->
+  <circle cx="50" cy="50" r="2" fill="black" />
+</svg>
+
+
+
 
 <p align="center">
     <a href="http://jrohit.com.np" target="_blank">
