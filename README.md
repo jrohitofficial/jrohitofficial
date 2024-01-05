@@ -260,7 +260,7 @@
 
 
 
-  [![An image of @getintorj Holopin Board](https://holopin.me/getintorj)](https://holopin.io/@getintor)
+  [![An image of @getintorj Holopin Board](https://holopin.me/getintorj)](https://holopin.io/@getintorj)
 
 
 
