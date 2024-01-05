@@ -263,7 +263,7 @@
    
 
 
-  [![An image of @lalithavadavalli Holopin Board](https://holopin.me/lalithavadavalli)](https://holopin.io/@getintorj)
+  [![An image of @getintorj Holopin Board](https://holopin.me/lalithavadavalli)](https://holopin.io/@getintorj)
 
 
 
