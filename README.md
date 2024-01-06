@@ -377,15 +377,6 @@ public class CodeBite {
 
 
 
-<p align="center"> 
-  <img align="left" height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png"  />
-  <img align="left" height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Soccer%20Ball.webp"  />
-  <img align="left" height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp"  />
-  <img align="left" height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png"  />
-  <img align="left" height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png"  />
-</p>
-
-
 
 <div align="center">
 
