@@ -322,6 +322,27 @@
   🎧 Listening to Music
 </details>
 
+
+``` 
+public class CodeBite {
+    public static void main(String[] args) {
+        // 🚀 Striving for perfection, one line of code at a time.
+        while (codeQuality < perfection) {
+            codeQuality++; // Incrementing code quality 🔝
+        }
+
+        // 🌟 Lifelong coder on a journey of constant improvement.
+        while (alive) {
+            eat();  // Fuel for the coding engine 🍕
+            sleep();  // Recharging for epic code adventures 💤
+            code();  // Crafting software magic ✨
+        }
+
+        // 👨‍💻 Proudly crafting elegant solutions in the digital realm.
+        // - RJ's
+    }
+```
+
 ###
 <br clear="both">
 <p align="center"> Activities</p>
@@ -343,25 +364,6 @@
 
 <img align="left" height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png"  />
 
-``` 
-public class CodeBite {
-    public static void main(String[] args) {
-        // 🚀 Striving for perfection, one line of code at a time.
-        while (codeQuality < perfection) {
-            codeQuality++; // Incrementing code quality 🔝
-        }
-
-        // 🌟 Lifelong coder on a journey of constant improvement.
-        while (alive) {
-            eat();  // Fuel for the coding engine 🍕
-            sleep();  // Recharging for epic code adventures 💤
-            code();  // Crafting software magic ✨
-        }
-
-        // 👨‍💻 Proudly crafting elegant solutions in the digital realm.
-        // - RJ's
-    }
-```
 
 <hr />
 <div align="center">
