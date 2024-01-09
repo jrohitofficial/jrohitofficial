@@ -354,17 +354,17 @@ public class CodeBite {
 
 
 
-<p align="center">
+<div align="center">
     <i style="font-size: 10px;">
         "Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"
     </i>
-</p>
+</div>
 
 
 
 
 
-###
+####
 <br clear="both">
 <p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
  <p align="center">
