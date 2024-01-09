@@ -354,12 +354,11 @@ public class CodeBite {
 
 
 
-
-<div align="center">
+<p align="center">
     <i style="font-size: 18px;">
         "Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"
     </i>
-</div>
+</p>
 
 
 
@@ -367,7 +366,7 @@ public class CodeBite {
 
 ###
 <br clear="both">
-<p align="center">ₐCₜᵢᵥᵢₜᵢₑₛ</p>
+<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
  <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png" alt="Azure" width="50" height="50" />
