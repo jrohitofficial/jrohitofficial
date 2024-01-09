@@ -253,12 +253,6 @@
 
 
 
-
-
-
-
-
-
 <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://jharohit.com.np/">
@@ -271,7 +265,6 @@
     <a href="https://github.com/getintorj/getintorj">
         <img src="https://github-profile-trophy.vercel.app/?username=getintorj&column=-1&theme=dracula&layout=compact"width="95%"/> 
 </p>
-
 
 
 
@@ -309,7 +302,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 </div>
 
-<div align="left">
+<h2 align="left">
 <details>
   <summary>Skills</summary>
 - Problem Solving
@@ -329,7 +322,7 @@
   🎮 Games
   🎧 Listening to Music
 </details>
-</div>
+</h2>
 
 
 
