@@ -334,7 +334,6 @@
 
 
 
-<div align="left">
 ``` 
 public class CodeBite {
     public static void main(String[] args) {
@@ -354,7 +353,7 @@ public class CodeBite {
         // - RJ's
     }
 ```
-</div>
+
 
 
 <hr />
