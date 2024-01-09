@@ -139,19 +139,19 @@
 			<circle class="gauge-base" r="56" cx="100" cy="60" stroke-width="8"></circle>
 			<circle class="gauge-arc guage-arc-1" r="56" cx="100" cy="60" stroke-width="8" style="stroke-dasharray: 218.15196, 351.858;"></circle>
 			<text class="guage-text" x="100px" y="60px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">62</text>
-			<text class="guage-title" x="100px" y="160px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">スピード性能</text>
+			<text class="guage-title" x="100px" y="160px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">Performance</text>
 		</svg>
 		<svg class="guage-div guage-acc guage-2" viewBox="0 0 200 200" width="200" height="200" x="200" y="0">
 			<circle class="gauge-base" r="56" cx="100" cy="60" stroke-width="8"></circle>
 			<circle class="gauge-arc guage-arc-2" r="56" cx="100" cy="60" stroke-width="8" style="stroke-dasharray: 292.04214, 351.858;"></circle>
 			<text class="guage-text" x="100px" y="60px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">83</text>
-			<text class="guage-title" x="100px" y="160px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">安楽</text>
+			<text class="guage-title" x="100px" y="160px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">Comfort</text>
 		</svg>
 		<svg class="guage-div guage-best guage-3" viewBox="0 0 200 200" width="200" height="200" x="400" y="0">
 			<circle class="gauge-base" r="56" cx="100" cy="60" stroke-width="8"></circle>
 			<circle class="gauge-arc guage-arc-3" r="56" cx="100" cy="60" stroke-width="8" style="stroke-dasharray: 327.22794, 351.858;"></circle>
 			<text class="guage-text" x="100px" y="60px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">93</text>
-			<text class="guage-title" x="100px" y="160px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">最良の手順</text>
+			<text class="guage-title" x="100px" y="160px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">Procedure</text>
 		</svg>
 		<svg class="guage-div guage-seo guage-2" viewBox="0 0 200 200" width="200" height="200" x="600" y="0">
 			<circle class="gauge-base" r="56" cx="100" cy="60" stroke-width="8"></circle>
@@ -223,8 +223,8 @@
 				</g>
 			</svg>
 			<text class="guage-title" y="160px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">
-				<tspan x="100px" dy="-6px">プログレッシブ </tspan>
-				<tspan x="100px" dy="30px">Web アプリ</tspan>
+				<tspan x="100px" dy="-6px">Prograssive </tspan>
+				<tspan x="100px" dy="30px">Web App</tspan>
 			</text>
 		</svg>
 		<svg width="604" height="76" x="200" y="250">
