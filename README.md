@@ -66,7 +66,14 @@
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
   <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
+    <img align="center" width="500px" src="@/../page-insights.svg" alt="Githubページの洞察"/>
   </p>
+
+
+
+
+
+  
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getintorj&theme=gotham&layout=compact"width="47%"/> 
