@@ -28,16 +28,12 @@
 </a>
 
 
-
 <a href="https://jharohit.com.np">
     <img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Final.png" alt="Clickable Image">
 </a>
 
-
-
-<a href="https://jharohit.com.np">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</a>
+
 
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
 </p>
@@ -335,7 +331,7 @@
 
 
 
-
+---
 ``` 
 public class CodeBite {
     public static void main(String[] args) {
@@ -355,6 +351,8 @@ public class CodeBite {
         // - RJ's
     }
 ```
+---
+
 
 
 
