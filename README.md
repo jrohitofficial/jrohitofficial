@@ -332,6 +332,60 @@
 </details>
 
 
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-size: 16px; /* Adjust the font size as needed */
+    }
+
+    details {
+      text-align: left;
+      margin-bottom: 10px; /* Add some spacing between details sections */
+    }
+
+    summary {
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+<details>
+  <summary>Skills</summary>
+  <ul>
+    <li>Problem Solving</li>
+    <li>Youtuber</li>
+    <li>Blogging</li>
+    <li>Web Content Writing</li>
+    <li>Video Editing</li>
+    <li>Blogger</li>
+    <li>Researching & Learning</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Hobbies</summary>
+  <ul>
+    <li>🌏 Traveling</li>
+    <li>📚 Learning</li>
+    <li>🎮 Games</li>
+    <li>🎧 Listening to Music</li>
+  </ul>
+</details>
+
+</body>
+</html>
+
+
+
+
+
 ``` 
 public class CodeBite {
     public static void main(String[] args) {
