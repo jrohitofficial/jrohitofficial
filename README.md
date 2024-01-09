@@ -68,9 +68,10 @@
   <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
   </p>
 
-###
-<img align="center" width="500px" src="@/../page-insights.svg" alt="Githubページの洞察"/>
 
+<p align="center"> 
+<img align="center" width="500px" src="@/../page-insights.svg" alt="Github Insight"/>
+</p>
 
   
   
