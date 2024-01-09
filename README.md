@@ -371,8 +371,6 @@ public class CodeBite {
 
 
 
-
-
 ####
 <br clear="both">
 <p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
@@ -400,14 +398,11 @@ public class CodeBite {
 
 
 
-
-
 <p>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 </p> 
-
 
 
 
@@ -422,7 +417,6 @@ public class CodeBite {
 ###### @2024 [BisKIRAN INFOTECH](https://jrohit.com.np), Inc. All rights reserved
 
 </div>
-
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
