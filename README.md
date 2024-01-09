@@ -308,7 +308,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 </div>
 
-<div align="left">
+<p align="left">
 <details>
   <summary>Skills</summary>
 
@@ -329,7 +329,7 @@
   🎮 Games
   🎧 Listening to Music
 </details>
-</div>
+</p>
 
 
 
