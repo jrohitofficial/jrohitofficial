@@ -66,11 +66,10 @@
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
   <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
-    <img align="center" width="500px" src="@/../page-insights.svg" alt="Githubページの洞察"/>
   </p>
 
-
-
+###
+<img align="center" width="500px" src="@/../page-insights.svg" alt="Githubページの洞察"/>
 
 
   
