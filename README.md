@@ -258,14 +258,6 @@
 
 
 
-
-
-
-
-
-
-
-
 <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://jharohit.com.np/">
