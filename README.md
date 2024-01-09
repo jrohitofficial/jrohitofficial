@@ -254,7 +254,8 @@
 
 
 
-
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
 <div class="tech-stack">
   <div class="tech-stack__item">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40" />
