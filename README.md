@@ -360,9 +360,8 @@ public class CodeBite {
 </div>
 
 
-
-<div align="center" style="background: linear-gradient(to right, ff8c00, ff4500); padding: 20px; border-radius: 10px;">
-    <i style="font-size: 12px;">
+<div align="center">
+    <i style="background: linear-gradient(to right, #ff8c00, #ff4500); -webkit-background-clip: text; color: transparent; font-size: 10px;">
         "Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"
     </i>
 </div>
