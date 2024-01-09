@@ -306,7 +306,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 </div>
 
-####
 <h2 align="left">
 <details>
   <summary>Skills</summary>
@@ -400,7 +399,7 @@ public class CodeBite {
 
 <div align="center">
 
-<img height="22" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
 
