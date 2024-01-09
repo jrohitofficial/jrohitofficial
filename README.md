@@ -12,9 +12,9 @@
 
 <p align="center"><a href="https://github.com/getintorj"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
-<p align="center"><a href="https://github.com/getintorj"><img src="https://github.com/getintorj/getintorj/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>                                                                    
-
 <h3 align="center"><img src="https://github.com/getintorj/getintorj/blob/master/code.gif?raw=true" height="20"</h3>
+
+<p align="center"><a href="https://github.com/getintorj"><img src="https://github.com/getintorj/getintorj/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>                                                                    
 
 <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=¦+રોહિત+¦&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=12" />
 
