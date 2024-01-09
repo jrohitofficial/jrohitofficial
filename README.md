@@ -126,7 +126,7 @@
 
 
 
-<h3 style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -247,7 +247,7 @@
  </tr>
 </table>
 <br><br>
-</h3>
+</div>
 
 
 
