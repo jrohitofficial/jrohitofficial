@@ -389,6 +389,16 @@ public class CodeBite {
   <a href="https://jharohit.com.np" target="_blank">
     <img src="https://github.com/getintorj/getintorj/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="50" height="50" />
   </a>
+  <a href="https://jharohit.com.np" target="_blank">
+    <img src="https://github.com/getintorj/getintorj/blob/master/globe.gif?raw=true" alt="Azure" width="50" height="50" />
+  </a>
+  <a href="https://jharohit.com.np" target="_blank">
+    <img src="https://github.com/getintorj/getintorj/blob/master/book.gif?raw=true" alt="Azure" width="50" height="50" />
+  </a>
+  <a href="https://jharohit.com.np" target="_blank">
+    <img src="https://github.com/getintorj/getintorj/blob/master/music.gif?raw=true" alt="Azure" width="50" height="50" />
+  </a>
+  
  </p>
 
 
