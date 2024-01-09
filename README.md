@@ -370,24 +370,24 @@ public class CodeBite {
 <br clear="both">
 <p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
  <p align="center">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png" alt="Azure" width="50" height="50" />
+  <a href="https://jharohit.com.np/" target="_blank">
+    <img src="https://github.com/getintorj/getintorj/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="50" height="50" />
   </a>
 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Soccer%20Ball.webp" alt="Azure" width="50" height="50" />
+  <a href="https://jharohit.com.np" target="_blank">
+    <img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Soccer%20Ball.webp" alt="Azure" width="50" height="50" />
   </a>
 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Azure" width="50" height="50" />
+  <a href="https://jharohit.com.np" target="_blank">
+    <img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Video%20Game.webp" alt="Azure" width="50" height="50" />
   </a>
 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Azure" width="50" height="50" />
+  <a href="https://jharohit.com.np" target="_blank">
+    <img src="https://github.com/getintorj/getintorj/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="50" height="50" />
   </a>
 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Azure" width="50" height="50" />
+  <a href="https://jharohit.com.np" target="_blank">
+    <img src="https://github.com/getintorj/getintorj/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="50" height="50" />
   </a>
  </p>
 
@@ -403,7 +403,7 @@ public class CodeBite {
 
 <div align="center">
 
-<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/getintorj/getintorj/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" />
 <br />
 
 
@@ -414,4 +414,4 @@ public class CodeBite {
 </div>
 
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
+<img src="https://github.com/getintorj/getintorj/blob/master/line-neon.gif" width="100%"> 
