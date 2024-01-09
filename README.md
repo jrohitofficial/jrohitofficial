@@ -405,4 +405,10 @@ public class CodeBite {
 </div>
 
 
+<div align="center" style="font-size: 10px;">
+#### @2023 [BisKIRAN INFOTECH](https://github.com/getintorj), Inc. All rights reserved
+</div>
+
+
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
