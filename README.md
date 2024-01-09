@@ -122,15 +122,6 @@
     <img src="https://www.svgrepo.com/show/349442/macos.svg" alt="macOS" width="20" height="20" />
   </a>
 
-
- <a href="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" width="20" height="20" />
-  </a>
-
-
-
-
-
 </p>
 
 
@@ -370,6 +361,36 @@ public class CodeBite {
 ###
 <br clear="both">
 <p align="center">ACTIVITIES</p>
+ <p align="center">
+  <a href="https://azure.microsoft.com/en-in/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png" alt="Azure" width="50" height="50" />
+  </a>
+
+  <a href="https://azure.microsoft.com/en-in/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Soccer%20Ball.webp" alt="Azure" width="50" height="50" />
+  </a>
+
+  <a href="https://azure.microsoft.com/en-in/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Azure" width="50" height="50" />
+  </a>
+
+  <a href="https://azure.microsoft.com/en-in/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Azure" width="50" height="50" />
+  </a>
+
+  <a href="https://azure.microsoft.com/en-in/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Azure" width="50" height="50" />
+  </a>
+ </p>
+
+
+
+
+
+
+
+
+
 <img align="left" height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png"  />
 
 ###
@@ -387,6 +408,12 @@ public class CodeBite {
 ###
 
 <img align="left" height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png"  />
+
+
+
+
+
+
 
 
 
