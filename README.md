@@ -15,7 +15,7 @@
         
 <h3 align="center"><img src="https://github.com/Hexzilla/Hexzilla/blob/main/code.gif" height="20"</h3>
 
-<p align="center"><a href="https://github.com/getintorj"><<img src="https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/getintorj"><img src="https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3" alt="Animated footer bars" width="100%"/></a></p>
                                                                         
 
 <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=¦+રોહિત+¦&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=12" />
