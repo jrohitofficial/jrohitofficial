@@ -367,7 +367,7 @@ public class CodeBite {
 
 ###
 <br clear="both">
-<p align="center">ₐCₜᵢᵥᵢₜᵢₑₛ</p>
+<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
  <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png" alt="Azure" width="50" height="50" />
