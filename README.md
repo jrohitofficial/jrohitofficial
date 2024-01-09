@@ -311,7 +311,7 @@
 - Web Content Writing
 - Video Editing
 - Blogger
-- Researching $ Learning
+- Researching & Learning
 </details>
 
 
