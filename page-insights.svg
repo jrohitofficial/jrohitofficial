@@ -223,8 +223,7 @@
 				</g>
 			</svg>
 			<text class="guage-title" y="160px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">
-				<tspan x="100px" dy="-6px">Prograssive </tspan>
-				<tspan x="100px" dy="30px">Web App</tspan>
+				<tspan x="100px" dy="-6px">PWA</tspan>
 			</text>
 		</svg>
 		<svg width="604" height="76" x="200" y="250">
