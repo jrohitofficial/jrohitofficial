@@ -122,12 +122,11 @@
   <a href="https://www.apple.com/macos/sonoma/" target="_blank">
     <img src="https://www.svgrepo.com/show/349442/macos.svg" alt="macOS" width="20" height="20" />
   </a>
-
 </p>
 
 
 
-<div style="display: flex; align-items: flex-start; align: center">
+<h3 style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -248,122 +247,9 @@
  </tr>
 </table>
 <br><br>
-
-</div>
-
+</h3>
 
 
-
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-<div class="tech-stack">
-  <div class="tech-stack__item">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40" />
-    <span>React</span>
-  </div>
-  <div class="tech-stack__item">
-    <a href="https://www.python.org/">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
-    </a>
-    <span>Python</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40" />
-    <span>JavaScript</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="40" height="40" />
-    <span>C++</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="40" height="40" />
-    <span>Webpack</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40" />
-    <span>MySQL</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="40" height="40" />
-    <span>TypeScript</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="40" height="40" />
-    <span>AWS</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="40" height="40" />
-    <span>C#</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="40" height="40" />
-    <span>Django</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="40" height="40" />
-    <span>Github</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="40" height="40" />
-    <span>Git</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" height="40" />
-    <span>Laravel</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" />
-    <span>HTML5</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" />
-    <span>CSS</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40" />
-    <span>Bootstrap</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://raw.githubusercontent.com/devicons/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
-    <span>Android</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="40" height="40" />
-    <span>jQuery</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" />
-    <span>MongoDB</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" width="40" height="40" />
-    <span>Nodejs</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40" />
-    <span>PHP</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VsCode" width="40" height="40" />
-    <span>VsCode</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="40" height="40" />
-    <span>WordPress</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="Dotnet" width="40" height="40" />
-    <span>Dotnet</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
-    <span>SQLite</span>
-  </div>
-  <div class="tech-stack__item">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-    <span>Java</span>
-  </div>
-  <
 
 
 
