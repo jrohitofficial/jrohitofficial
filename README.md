@@ -16,10 +16,7 @@
 <h3 align="center"><img src="https://github.com/getintorj/getintorj/blob/master/code.gif?raw=true" height="20"</h3>
 
 <p align="center"><a href="https://github.com/getintorj"><img src="https://github.com/getintorj/getintorj/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>
-
-
-
-                                                                        
+                                                                    
 
 <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=¦+રોહિત+¦&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=12" />
 
@@ -37,16 +34,11 @@
 </a>
 
 
-
-
-
-
 <img src="https://github.com/getintorj/getintorj/blob/master/2nd%20arrow.gif?raw=true">
 
 
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
 </p>
-
 
 
 ###
@@ -268,10 +260,6 @@
 
 
 
-
-
-
-
 <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://jharohit.com.np/">
@@ -371,32 +359,32 @@ public class CodeBite {
 <p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
  <p align="center">
   <a href="https://jharohit.com.np/" target="_blank">
-    <img src="https://github.com/getintorj/getintorj/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="50" height="50" />
+    <img src="https://github.com/getintorj/getintorj/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
   </a>
 
   <a href="https://jharohit.com.np" target="_blank">
-    <img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Soccer%20Ball.webp" alt="Azure" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
   </a>
 
   <a href="https://jharohit.com.np" target="_blank">
-    <img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Video%20Game.webp" alt="Azure" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
   </a>
 
   <a href="https://jharohit.com.np" target="_blank">
-    <img src="https://github.com/getintorj/getintorj/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="50" height="50" />
+    <img src="https://github.com/getintorj/getintorj/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
   </a>
 
   <a href="https://jharohit.com.np" target="_blank">
-    <img src="https://github.com/getintorj/getintorj/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="50" height="50" />
+    <img src="https://github.com/getintorj/getintorj/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
   </a>
   <a href="https://jharohit.com.np" target="_blank">
-    <img src="https://github.com/getintorj/getintorj/blob/master/globe.gif?raw=true" alt="Azure" width="50" height="50" />
+    <img src="https://github.com/getintorj/getintorj/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
   </a>
   <a href="https://jharohit.com.np" target="_blank">
-    <img src="https://github.com/getintorj/getintorj/blob/master/book.gif?raw=true" alt="Azure" width="50" height="50" />
+    <img src="https://github.com/getintorj/getintorj/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
   </a>
   <a href="https://jharohit.com.np" target="_blank">
-    <img src="https://github.com/getintorj/getintorj/blob/master/music.gif?raw=true" alt="Azure" width="50" height="50" />
+    <img src="https://github.com/getintorj/getintorj/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40"" />
   </a>
   
  </p>
