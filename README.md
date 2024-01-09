@@ -121,7 +121,21 @@
   <a href="https://www.apple.com/macos/sonoma/" target="_blank">
     <img src="https://www.svgrepo.com/show/349442/macos.svg" alt="macOS" width="20" height="20" />
   </a>
+
+
+ <a href="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" target="_blank">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" width="20" height="20" />
+  </a>
+
+
+
+
+
 </p>
+
+
+
+
 
 
 
