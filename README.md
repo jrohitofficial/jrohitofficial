@@ -127,7 +127,7 @@
 
 ####
 <table>
-<div style="display: flex; align-items: flex-start; align: center; width= "95%">
+<div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="96">
