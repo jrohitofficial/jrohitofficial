@@ -308,10 +308,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 </div>
 
-<p align="left">
+<div align="left">
 <details>
   <summary>Skills</summary>
-
 - Problem Solving
 - Youtuber
 - Blogging
@@ -329,13 +328,13 @@
   🎮 Games
   🎧 Listening to Music
 </details>
-</p>
+</div>
 
 
 
 
 
-
+<div align="left">
 ``` 
 public class CodeBite {
     public static void main(String[] args) {
@@ -355,7 +354,7 @@ public class CodeBite {
         // - RJ's
     }
 ```
-
+</div>
 
 
 <hr />
