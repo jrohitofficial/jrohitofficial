@@ -254,6 +254,50 @@
 
 
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .compact-table {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+    }
+
+    .compact-cell {
+      text-align: center;
+      width: 96px;
+      margin: 10px;
+    }
+  </style>
+  <title>Tech Stack</title>
+</head>
+<body>
+  <div class="compact-table">
+    <div class="compact-cell">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+      <br>React
+    </div>
+    <div class="compact-cell">
+      <a href="https://www.python.org/">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+      </a>
+      <br>Python
+    </div>
+    <!-- Repeat for other cells -->
+
+  </div>
+  <!-- Repeat for other rows -->
+
+</body>
+</html>
+
+
+
+
+
+
+
 
 <!-- activity graph heroku-app start -->
 <p align="center">
