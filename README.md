@@ -330,19 +330,6 @@
 - Researching $ Learning
 </details>
 
-<details>
-  <summary>Hobbies</summary>
-🍽️ 🛌 👨🏻‍💻 🔁 
-</br> 
-  🌏 Traveling
-  📚 Learning
-  🎮 Video Games
-  🎧 Listening to Music
-</details>
-
-
-
-
 
 ``` 
 public class CodeBite {
