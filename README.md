@@ -127,7 +127,7 @@
 ####
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center&layout=compact"width=95%">
+<table align="center; layout=compact"width=95%/>
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
