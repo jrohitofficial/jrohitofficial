@@ -68,7 +68,7 @@
 </p>  
   
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getintorj&theme=gotham&layout=compact"width="30%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getintorj&theme=gotham&layout=compact"width="40%"/> 
 </p>
 
 <p align="center">
