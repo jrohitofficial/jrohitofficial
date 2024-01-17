@@ -250,7 +250,6 @@
 
 
 
-https://www.codewars.com/users/getintorj/badges/large
 
 
 
