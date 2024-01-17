@@ -250,6 +250,9 @@
 
 
 
+https://www.codewars.com/users/getintorj/badges/large
+
+
 
 <!-- activity graph heroku-app start -->
 <p align="center">
