@@ -27,9 +27,9 @@
 </a>
 
 
- <a href="https://jharohit.com.np">
+<!--  <a href="https://jharohit.com.np">
     <img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Final.png" alt="Clickable Image">
-</a>
+</a> -->
 
 <img src="https://github.com/getintorj/getintorj/blob/master/2nd%20arrow.gif?raw=true">
 
