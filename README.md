@@ -3,11 +3,11 @@
 
 <p align="center">
     <a href="http://jrohit.com.np" target="_blank">
-        <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://github.com/getintorj/getintorj/blob/master/2.png?raw=true">
+        <img alt="http://readme-typing-svg.demolab.com" width="100" src="https://github.com/getintorj/getintorj/blob/master/2.png?raw=true">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
     <a href="http://jrohit.com.np" target="_blank">
-        <img alt="http://readme-typing-svg.demolab.com" width="170" src="https://github.com/getintorj/getintorj/blob/master/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif?raw=true">
+        <img alt="http://readme-typing-svg.demolab.com" width="100" src="https://github.com/getintorj/getintorj/blob/master/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif?raw=true">
     </a>
 
     
