@@ -11,12 +11,8 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
     <a href="http://jrohit.com.np" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=getintorj&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="60%" height="50%">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=getintorj&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="60%" height="0%">
     </a>
-
-    
-
-
 
 
 <p align="center"><a href="https://github.com/getintorj"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
