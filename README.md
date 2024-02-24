@@ -1,24 +1,20 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
+
+ 
+
+
 <p align="center">
     <a href="http://jrohit.com.np" target="_blank">
-        <img alt="http://readme-typing-svg.demolab.com" width="100" src="https://github.com/getintorj/getintorj/blob/master/2.png?raw=true">
+        <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://github.com/getintorj/getintorj/blob/master/2.png?raw=true">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
     <a href="http://jrohit.com.np" target="_blank">
-        <img alt="http://readme-typing-svg.demolab.com" width="100" src="https://github.com/getintorj/getintorj/blob/master/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif?raw=true">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=getintorj&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="50%" height="50%">
     </a>
 
     
-
-<div class="center">
-  <div>
-    <a href="https://github.com/getintorj">
-      <img src="https://github-widgetbox.vercel.app/api/profile?username=getintorj&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="50%" height="50%">
-    </a>
-  </div>
-</div>
 
 
 
