@@ -10,6 +10,18 @@
         <img alt="http://readme-typing-svg.demolab.com" width="170" src="https://github.com/getintorj/getintorj/blob/master/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif?raw=true">
     </a>
 
+    
+
+<div class="center">
+  <div>
+    <a href="https://github.com/getintorj">
+      <img src="https://github-widgetbox.vercel.app/api/profile?username=getintorj&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="50%" height="50%">
+    </a>
+  </div>
+</div>
+
+
+
 
 <p align="center"><a href="https://github.com/getintorj"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
