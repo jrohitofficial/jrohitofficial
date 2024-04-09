@@ -411,11 +411,6 @@ public class CodeBite {
 
 <img src="https://github.com/getintorj/getintorj/blob/master/line-neon.gif" width="100%"> 
 
-## Chatbot Integration
-
-To interact with our chatbot, simply click on the chat widget below:
 
 
-<script src="https://cdn.botpress.cloud/webchat/v0/inject.js"></script>
-<script src="https://mediafiles.botpress.cloud/be2e6aba-f918-4485-a358-d00d5ea7ef01/webchat/config.js" defer></script>
 
