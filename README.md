@@ -12,7 +12,6 @@
         <img src="https://github-widgetbox.vercel.app/api/profile?username=getintorj&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="getintorj" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/getintorj?trk=profile-badge">Rohit Jha</a></div>
               
 
