@@ -322,7 +322,7 @@
 
 
 
-``` 
+```java 
 public class CodeBite {
     public static void main(String[] args) {
         // 🚀 Striving for perfection, one line of code at a time.
