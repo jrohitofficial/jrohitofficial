@@ -30,10 +30,11 @@
 </a>
 
 
+  <!--
 <a href="https://jrohit.com.np">
     <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Final.png" alt="Clickable Image">
 </a> 
-
+-->
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
