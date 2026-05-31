@@ -33,7 +33,7 @@
 <p align="center">
   <a href="https://github.com/jrohitofficial/readme-typing-svg" target="_blank">
     <img 
-      src="https://readme-typing-svg.demolab.com?lines=SOFTWARE%20ENGINEER;ETHICAL%20HACKER;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER;YOUTUBER;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira+Code&center=true&width=600&height=45&color=20C20E&vCenter=true&pause=1000&size=22"
+      src="https://readme-typing-svg.demolab.com?lines=DATA%20SCIENTIST;AI%20RESEARCHER;MACHINE%20LEARNING%20ENGINEER;SOFTWARE%20ENGINEER;FULL-STACK%20MERN%20DEVELOPER;ETHICAL%20HACKER;YOUTUBER;3%2B%20YEARS%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=JetBrains+Mono&weight=700&center=true&width=700&height=45&color=00F0FF%3BFF007F%3B00FF7F%3BF5D300%3BB800FF%3BFF5722%3B00E5FF%3BFF00FF%3B7FFF00&vCenter=true&pause=1000&size=22"
       alt="Professional Titles"
     />
   </a>
@@ -72,12 +72,11 @@
 </p>
 
 
-### 
 <p align="center"> 
- 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
-  <img src="https://profile-counter.glitch.me/jrohitofficial/count.svg"/>
-  </p>
-
+  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
+  <br>
+  <img src="https://count.getloli.com/get/@jrohitofficial?theme=gelbooru" alt="jrohitofficial" />
+</p>
 
 <p align="center"> 
 <img align="center" width="500px" src="@/../page-insights.svg" alt="Github Insight"/>
