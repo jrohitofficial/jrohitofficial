@@ -163,13 +163,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="25" height="25" />
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="25" height="25" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="25" height="25" />
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="25" height="25" />
   </a>
   <a href="https://www.linux.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Linux" width="25" height="25" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="25" height="25" />
   </a>
   <a href="https://www.apple.com/macos/sonoma/" target="_blank">
     <img src="https://www.svgrepo.com/show/349442/macos.svg" alt="macOS" width="25" height="25" />
