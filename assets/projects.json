@@ -1,20 +1,20 @@
 {
   "projects": [
     {
-      "repo": "IR_Coursework",
-      "description": "An end-to-end Information Retrieval engine featuring a custom crawler, VSE engine, and a unified frontend."
+      "repo": "BisKIRAN_TECHNOLOGIES-FINAL",
+      "description": "Full-stack technology website."
     },
     {
-      "repo": "task1_vertical_search",
-      "description": "Vertical search engine backend with specialized indexing and ranking strategies."
+      "repo": "Chat-MO-APP-MangoDB-Flutter-MVC",
+      "description": "Mobile chat application built with Flutter, MongoDB, and MVC architecture."
     },
     {
-      "repo": "unified_frontend",
-      "description": "A responsive web interface for querying and interacting with the search engine."
+      "repo": "Clinic-Patient-Flutter-App",
+      "description": "A comprehensive clinic and patient management mobile application."
     },
     {
-      "repo": "crawler",
-      "description": "A high-performance web crawler with scheduling and robust error handling."
+      "repo": "blog-python-django",
+      "description": "A dynamic blog platform built with Python and Django."
     }
   ]
 }

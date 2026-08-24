@@ -36,7 +36,7 @@ $ cat about.txt
 
 Hi, I'm **Rohit Jha**. I build scalable search engines, backend systems, and data-driven web applications.
 
-- Currently building **[Information Retrieval System](https://github.com/jrohitofficial/IR_Coursework)**
+- Currently building **[Information Retrieval System](https://github.com/jrohitofficial/BisKIRAN_TECHNOLOGIES-FINAL)**
 - Portfolio: **[jrohitofficial.com](https://jrohitofficial.com)**
 - Learning **Advanced Information Retrieval & Distributed Systems**
 - Fun fact: **I can traverse a graph faster than a BFS.**
@@ -140,40 +140,40 @@ Hi, I'm **Rohit Jha**. I build scalable search engines, backend systems, and dat
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/jrohitofficial/IR_Coursework">
+  <a href="https://github.com/jrohitofficial/BisKIRAN_TECHNOLOGIES-FINAL">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-IR_Coursework-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-IR_Coursework-light.svg">
-      <img src="assets/card-IR_Coursework-dark.svg" width="420" alt="IR_Coursework">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-BisKIRAN_TECHNOLOGIES-FINAL-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-BisKIRAN_TECHNOLOGIES-FINAL-light.svg">
+      <img src="assets/card-BisKIRAN_TECHNOLOGIES-FINAL-dark.svg" width="420" alt="BisKIRAN_TECHNOLOGIES-FINAL">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/jrohitofficial/task1_vertical_search">
+  <a href="https://github.com/jrohitofficial/Chat-MO-APP-MangoDB-Flutter-MVC">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-task1_vertical_search-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-task1_vertical_search-light.svg">
-      <img src="assets/card-task1_vertical_search-dark.svg" width="420" alt="task1_vertical_search">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Chat-MO-APP-MangoDB-Flutter-MVC-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Chat-MO-APP-MangoDB-Flutter-MVC-light.svg">
+      <img src="assets/card-Chat-MO-APP-MangoDB-Flutter-MVC-dark.svg" width="420" alt="Chat-MO-APP-MangoDB-Flutter-MVC">
     </picture>
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://github.com/jrohitofficial/unified_frontend">
+  <a href="https://github.com/jrohitofficial/Clinic-Patient-Flutter-App">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-unified_frontend-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-unified_frontend-light.svg">
-      <img src="assets/card-unified_frontend-dark.svg" width="420" alt="unified_frontend">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Clinic-Patient-Flutter-App-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Clinic-Patient-Flutter-App-light.svg">
+      <img src="assets/card-Clinic-Patient-Flutter-App-dark.svg" width="420" alt="Clinic-Patient-Flutter-App">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/jrohitofficial/crawler">
+  <a href="https://github.com/jrohitofficial/blog-python-django">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-crawler-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-crawler-light.svg">
-      <img src="assets/card-crawler-dark.svg" width="420" alt="crawler">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-blog-python-django-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-blog-python-django-light.svg">
+      <img src="assets/card-blog-python-django-dark.svg" width="420" alt="blog-python-django">
     </picture>
   </a>
 </td>
@@ -184,10 +184,10 @@ Hi, I'm **Rohit Jha**. I build scalable search engines, backend systems, and dat
 
 | project | live | stack |
 |---|---|---|
-| **[IR_Coursework](https://github.com/jrohitofficial/IR_Coursework)** | [IR System](https://github.com/jrohitofficial/IR_Coursework) | `Python` `Flask` `Information Retrieval` |
-| **[task1_vertical_search](https://github.com/jrohitofficial/task1_vertical_search)** | [Search Backend](https://github.com/jrohitofficial/task1_vertical_search) | `Python` `Algorithms` |
-| **[unified_frontend](https://github.com/jrohitofficial/unified_frontend)** | [Frontend](https://github.com/jrohitofficial/unified_frontend) | `JavaScript` `React` |
-| **[crawler](https://github.com/jrohitofficial/crawler)** | [Crawler](https://github.com/jrohitofficial/crawler) | `Python` `Requests` |
+| **[BisKIRAN_TECHNOLOGIES-FINAL](https://github.com/jrohitofficial/BisKIRAN_TECHNOLOGIES-FINAL)** | [IR System](https://github.com/jrohitofficial/BisKIRAN_TECHNOLOGIES-FINAL) | `Python` `Flask` `Information Retrieval` |
+| **[Chat-MO-APP-MangoDB-Flutter-MVC](https://github.com/jrohitofficial/Chat-MO-APP-MangoDB-Flutter-MVC)** | [Search Backend](https://github.com/jrohitofficial/Chat-MO-APP-MangoDB-Flutter-MVC) | `Python` `Algorithms` |
+| **[Clinic-Patient-Flutter-App](https://github.com/jrohitofficial/Clinic-Patient-Flutter-App)** | [Frontend](https://github.com/jrohitofficial/Clinic-Patient-Flutter-App) | `JavaScript` `React` |
+| **[blog-python-django](https://github.com/jrohitofficial/blog-python-django)** | [Crawler](https://github.com/jrohitofficial/blog-python-django) | `Python` `Requests` |
 
 </sub>
 
