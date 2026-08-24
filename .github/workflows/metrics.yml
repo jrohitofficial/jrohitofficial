@@ -1,0 +1,83 @@
+name: Metrics
+
+on:
+  schedule:
+    # every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # ------------------------------------------------------------------ #
+      # The 3D isometric contribution calendar (the one from the inspo)
+      # ------------------------------------------------------------------ #
+      - name: Isometric contribution calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: jrohitofficial
+          filename: assets/metrics.isocalendar.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      # ------------------------------------------------------------------ #
+      # Coding habits: commits per hour of day, per weekday, language activity
+      # ------------------------------------------------------------------ #
+      - name: Coding habits
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: jrohitofficial
+          filename: assets/metrics.habits.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+
+      # ------------------------------------------------------------------ #
+      # Language breakdown (bytes-weighted, recent-activity weighted)
+      # ------------------------------------------------------------------ #
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: jrohitofficial
+          filename: assets/metrics.languages.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_indepth: no
+          plugin_languages_sections: most-used
+
+      # ------------------------------------------------------------------ #
+      # Achievement badges - the self-hosted replacement for
+      # github-profile-trophy, whose public instance returns 402 (out of quota)
+      # ------------------------------------------------------------------ #
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: jrohitofficial
+          filename: assets/metrics.achievements.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 0
