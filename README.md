@@ -114,7 +114,7 @@
 <p align="center"> 
   🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
   <br>
-  <img src="https://count.getloli.com/get/@jrohitofficial?theme=gelbooru" alt="jrohitofficial" />
+  <!-- <img src="https://count.getloli.com/get/@jrohitofficial?theme=gelbooru" alt="jrohitofficial" /> (Currently down: 403 Forbidden) -->
 </p>
 
 <p align="center"> 
@@ -122,7 +122,7 @@
 </p>  
   
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrohitofficial&theme=gotham&layout=compact"width="40%"/> 
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jrohitofficial&theme=gotham&layout=compact"width="40%"/> 
 </p>
 
 <p align="center">
@@ -318,7 +318,7 @@
 
 <p align="center">
     <a href="https://github.com/jrohitofficial/jrohitofficial">
-        <img src="https://github-profile-trophy.vercel.app/?username=jrohitofficial&column=-1&theme=dracula&layout=compact"width="95%"/> 
+        <!-- <img src="https://github-profile-trophy.vercel.app/?username=jrohitofficial&column=-1&theme=dracula&layout=compact"width="95%"/> (Currently down: 402 Payment Required) --> 
 </p>
 
 
