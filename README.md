@@ -27,36 +27,6 @@
 </div>
 
 ---
-<div align="center">
-
-## `~/` skill radar
-
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<!-- Self-rated radar - edit assets/skills.json, the workflow redraws it -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="400" alt="skill radar chart">
-</picture>
-
-</td>
-<td width="50%" align="center" valign="middle">
-
-<!-- Live radar built from real language byte counts across your repos -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-langs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-  <img src="assets/radar-langs-dark.svg" width="400" alt="language radar chart">
-</picture>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 <div align="center">
@@ -64,6 +34,7 @@
 <sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
 
 </div>
+
 
 
 
@@ -384,6 +355,38 @@
 #### 🅥🅔🅡🅢🅘🅞🅝 🅒🅞🅝🅣🅡🅞🅛
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+</div>
+
+
+<div align="center">
+
+#### 🅢🅚🅘🅛🅛 🅡🅐🅓🅐🅡
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<!-- Self-rated radar - edit assets/skills.json, the workflow redraws it -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+  <img src="assets/radar-dark.svg" width="400" alt="skill radar chart">
+</picture>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<!-- Live radar built from real language byte counts across your repos -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+  <img src="assets/radar-langs-dark.svg" width="400" alt="language radar chart">
+</picture>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 
