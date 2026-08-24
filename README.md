@@ -203,7 +203,6 @@ Hi, I'm **Rohit Jha**. I build scalable search engines, backend systems, and dat
 
 
 
-
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 
@@ -224,13 +223,13 @@ Hi, I'm **Rohit Jha**. I build scalable search engines, backend systems, and dat
 
 <p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>                                                                    
   <!--
-<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=-ª+a¬¦a½ïa¬¦a¬+a¬ñ+-ª&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=12" /> 
+<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=Â¦+àª°à«‹àª¹àª¿àª¤+Â¦&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=12" /> 
 -->
 
 
 
 <p align="center">
-  aññañ¬ aññaÑìañ»añ+añù aññañ+añéañíañ¦
+  à¤¤à¤ª à¤¤à¥à¤¯à¤¾à¤— à¤¤à¤¾à¤‚à¤¡à¤µ
 </p>
 
 
@@ -260,7 +259,7 @@ Hi, I'm **Rohit Jha**. I build scalable search engines, backend systems, and dat
 
 ###
 <p align="center">
-  =ƒàÆ=ƒàP=ƒà¥=ƒà¥=ƒàö=ƒàÆ=ƒàú =ƒàª=ƒàÿ=ƒàú=ƒàù =ƒà£=ƒàö
+  ğŸ…’ğŸ…ğŸ…ğŸ…ğŸ…”ğŸ…’ğŸ…£ ğŸ…¦ğŸ…˜ğŸ…£ğŸ…— ğŸ…œğŸ…”
    </p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/jrohitofficial_" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
@@ -278,7 +277,7 @@ Hi, I'm **Rohit Jha**. I build scalable search engines, backend systems, and dat
 
 
 <p align="center"> 
-  =ƒàÑ=ƒàÿ=ƒàó=ƒàÿ=ƒàú=ƒàP=ƒàí =ƒàÆ=ƒàP=ƒàñ=ƒà¥=ƒàú<br>
+  ğŸ…¥ğŸ…˜ğŸ…¢ğŸ…˜ğŸ…£ğŸ…ğŸ…¡ ğŸ…’ğŸ…ğŸ…¤ğŸ…ğŸ…£<br>
   <br>
   <img src="https://count.getloli.com/get/@jrohitofficial?theme=gelbooru" alt="jrohitofficial" />
 </p>
@@ -305,7 +304,7 @@ Hi, I'm **Rohit Jha**. I build scalable search engines, backend systems, and dat
 
 ###
 <p align="center"> 
- =ƒàú=ƒàö=ƒàÆ=ƒàù =ƒàó=ƒàú=ƒàÉ=ƒàÆ=ƒàÜ<br>
+ ğŸ…£ğŸ…”ğŸ…’ğŸ…— ğŸ…¢ğŸ…£ğŸ…ğŸ…’ğŸ…š<br>
  <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="25" height="25" />
@@ -493,7 +492,7 @@ Hi, I'm **Rohit Jha**. I build scalable search engines, backend systems, and dat
 ---
 <div align="center">
 
-#### =ƒàô=ƒàö=ƒàó=ƒàÿ=ƒàû=ƒà¥/=ƒàÑ=ƒàÿ=ƒàó=ƒàñ=ƒàÉ=ƒà¢ =ƒàú=ƒàP=ƒàP=ƒà¢=ƒàó
+#### ğŸ…“ğŸ…”ğŸ…¢ğŸ…˜ğŸ…–ğŸ…/ğŸ…¥ğŸ…˜ğŸ…¢ğŸ…¤ğŸ…ğŸ…› ğŸ…£ğŸ…ğŸ…ğŸ…›ğŸ…¢
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)
 ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
@@ -501,24 +500,24 @@ Hi, I'm **Rohit Jha**. I build scalable search engines, backend systems, and dat
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-#### =ƒàª=ƒàö=ƒàæ =ƒàù=ƒàP=ƒàó=ƒàú=ƒàÿ=ƒà¥=ƒàû
+#### ğŸ…¦ğŸ…”ğŸ…‘ ğŸ…—ğŸ…ğŸ…¢ğŸ…£ğŸ…˜ğŸ…ğŸ…–
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
-#### =ƒàÆ=ƒàÿ / =ƒàÆ=ƒàô
+#### ğŸ…’ğŸ…˜ / ğŸ…’ğŸ…“
 ![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
 ![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)
 
-#### =ƒàô=ƒàÉ=ƒàú=ƒàÉ =ƒàæ=ƒàÉ=ƒàó=ƒàö / =ƒàó=ƒàú=ƒàÉ=ƒàú=ƒàö
+#### ğŸ…“ğŸ…ğŸ…£ğŸ… ğŸ…‘ğŸ…ğŸ…¢ğŸ…” / ğŸ…¢ğŸ…£ğŸ…ğŸ…£ğŸ…”
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)
 
-#### =ƒàÑ=ƒàö=ƒàí=ƒàó=ƒàÿ=ƒàP=ƒà¥ =ƒàÆ=ƒàP=ƒà¥=ƒàú=ƒàí=ƒàP=ƒà¢
+#### ğŸ…¥ğŸ…”ğŸ…¡ğŸ…¢ğŸ…˜ğŸ…ğŸ… ğŸ…’ğŸ…ğŸ…ğŸ…£ğŸ…¡ğŸ…ğŸ…›
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 </div>
@@ -541,19 +540,19 @@ Hi, I'm **Rohit Jha**. I build scalable search engines, backend systems, and dat
 ``` 
 public class CodeBite {
     public static void main(String[] args) {
-        // =ƒÜÇ Striving for perfection, one line of code at a time.
+        // ğŸš€ Striving for perfection, one line of code at a time.
         while (codeQuality < perfection) {
-            codeQuality++; // Incrementing code quality =ƒö¥
+            codeQuality++; // Incrementing code quality ğŸ”
         }
 
-        // =ƒîƒ Lifelong coder on a journey of constant improvement.
+        // ğŸŒŸ Lifelong coder on a journey of constant improvement.
         while (alive) {
-            eat();  // Fuel for the coding engine =ƒìò
-            sleep();  // Recharging for epic code adventures =ƒÆñ
-            code();  // Crafting software magic G£¿
+            eat();  // Fuel for the coding engine ğŸ•
+            sleep();  // Recharging for epic code adventures ğŸ’¤
+            code();  // Crafting software magic âœ¨
         }
 
-        // =ƒæ¿GÇì=ƒÆ+ Proudly crafting elegant solutions in the digital realm.
+        // ğŸ‘¨â€ğŸ’» Proudly crafting elegant solutions in the digital realm.
         // - RJ's
     }
 ```
@@ -562,7 +561,7 @@ public class CodeBite {
 
 <div align="center">
     <i style="font-size: 10px;">
-        "Don't ever let somebody tell you, you can't do something! <br><b>You got a dreamGÇª You gotta protect it</b>.<br> People canGÇÖt do something themselves, they wanna tell you you canGÇÖt do it. <br><b>If you want something, go get it. Period</b>"
+        "Don't ever let somebody tell you, you can't do something! <br><b>You got a dreamâ€¦ You gotta protect it</b>.<br> People canâ€™t do something themselves, they wanna tell you you canâ€™t do it. <br><b>If you want something, go get it. Period</b>"
     </i>
 </div>
 
@@ -570,7 +569,7 @@ public class CodeBite {
 
 ####
 <br clear="both">
-<p align="center">=ƒà¦=ƒà¦=ƒåâ=ƒà+=ƒåà=ƒà+=ƒåâ=ƒà+=ƒà¦=ƒåé</p>
+<p align="center">ğŸ…°ğŸ…²ğŸ†ƒğŸ…¸ğŸ†…ğŸ…¸ğŸ†ƒğŸ…¸ğŸ…´ğŸ†‚</p>
  <p align="center">
   <a href="https://jrohit.com.np/" target="_blank">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
