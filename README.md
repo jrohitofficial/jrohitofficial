@@ -27,32 +27,6 @@
 </div>
 
 ---
-
-## `~/` whoami
-
-```console
-$ cat about.txt
-```
-
-Hi, I'm **Rohit Jha**. I build scalable search engines, backend systems, and data-driven web applications.
-
-- Currently building **[Information Retrieval System](https://github.com/jrohitofficial/BisKIRAN_TECHNOLOGIES-FINAL)**
-- Portfolio: **[jrohitofficial.com](https://jrohitofficial.com)**
-- Learning **Advanced Information Retrieval & Distributed Systems**
-- Fun fact: **I can traverse a graph faster than a BFS.**
-
-<br>
-
-<div align="center">
-
-## `~/` toolbox
-
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,postgres,mongodb,git,github,vscode,html,css&perline=11" alt="tech stack">
-
-</div>
-
----
-
 <div align="center">
 
 ## `~/` skill radar
