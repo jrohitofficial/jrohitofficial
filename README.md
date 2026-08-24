@@ -6,24 +6,6 @@
          --cols 100 --equalize --detail 0.5 --color -->
 <img src="assets/portrait.svg?v=4" width="300" alt="Rohit Jha, rendered as a dot matrix">
 
-<br>
-
-<!-- NAME / TAGLINE - animated typing -->
-<a href="https://github.com/jrohitofficial">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Rohit+Jha;Software+Engineer;Information+Retrieval;01100011+01101111+01100100+01100101" alt="typing banner">
-</a>
-
-<br>
-
-<!-- SOCIALS -->
-<a href="https://linkedin.com/in/jrohitofficial"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:jrohitofficial@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/jrohitofficial"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://codeforces.com/profile/jrohitofficial"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-<a href="https://leetcode.com/u/jrohitofficial"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-
-<img src="https://komarev.com/ghpvc/?username=jrohitofficial&style=flat&color=39d353&label=profile+views" alt="profile views">
-
 </div>
 
 ---
@@ -31,7 +13,6 @@
 ---
 <div align="center">
 
-<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
 
 </div>
 
