@@ -12,12 +12,7 @@
 
 <p align="center">
   <a href="http://jrohit.com.np" target="_blank">
-    <img src="assets/portrait.svg?v=4" width="300" alt="Rohit Jha, rendered as a dot matrix">
-  </a>
-</p>
-
-<p align="center">
-  <a href="http://jrohit.com.np" target="_blank">
+    <img src="assets/portrait.svg?v=4" width="300" alt="Rohit Jha, rendered as a dot matrix"><br>
     <img src="https://github-widgetbox.vercel.app/api/profile?username=jrohitofficial&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%">
   </a>
 </p>
