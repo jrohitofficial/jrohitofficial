@@ -1,0 +1,63 @@
+name: Charts and cards
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "assets/skills.json"
+      - "assets/projects.json"
+      - "scripts/radar.py"
+      - "scripts/cards.py"
+      - ".github/workflows/radar.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Hand-authored skill radar (edit assets/skills.json to change it)
+      - name: Skill radar
+        run: python scripts/radar.py --data assets/skills.json -o assets/radar
+
+      # Live radar built from real language byte counts across your repos
+      - name: Language radar
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/radar.py \
+            --github "${{ github.repository_owner }}" \
+            -o assets/radar-langs \
+            --limit 7 --values --curve 0.4 \
+            --exclude "shell,makefile,dockerfile,batchfile,procfile"
+
+      # Self-hosted stat and repo cards. These replace github-readme-stats and
+      # github-profile-trophy, whose shared public instances return 503 and 402.
+      # METRICS_TOKEN is a PAT and can read the contribution graph; the built-in
+      # GITHUB_TOKEN is the fallback and just means fewer tiles.
+      - name: Stat and repo cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/cards.py \
+            --user "${{ github.repository_owner }}" \
+            --projects assets/projects.json \
+            --out assets
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/radar-*.svg assets/card-*.svg
+          git diff --staged --quiet || git commit -m "chore: refresh charts and cards"
+          git push

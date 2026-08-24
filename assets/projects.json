@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "repo": "IR_Coursework",
+      "description": "An end-to-end Information Retrieval engine featuring a custom crawler, VSE engine, and a unified frontend."
+    },
+    {
+      "repo": "task1_vertical_search",
+      "description": "Vertical search engine backend with specialized indexing and ranking strategies."
+    },
+    {
+      "repo": "unified_frontend",
+      "description": "A responsive web interface for querying and interacting with the search engine."
+    },
+    {
+      "repo": "crawler",
+      "description": "A high-performance web crawler with scheduling and robust error handling."
+    }
+  ]
+}
