@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1266.0 1266.0" width="1266.0" height="1266.0" role="img" aria-label="dot-matrix portrait"><style>@keyframes dp{0%{opacity:.2}40%{opacity:.6}100%{opacity:1}}.d{animation:dp 4.0s ease-in-out 1 forwards}.l0{animation-delay:0.00s}.l1{animation-delay:0.29s}.l2{animation-delay:0.57s}.l3{animation-delay:0.86s}.l4{animation-delay:1.14s}.l5{animation-delay:1.43s}.l6{animation-delay:1.71s}.l7{animation-delay:2.00s}.l8{animation-delay:2.29s}.l9{animation-delay:2.57s}.l10{animation-delay:2.86s}.l11{animation-delay:3.14s}.l12{animation-delay:3.43s}.l13{animation-delay:3.71s}
 @keyframes img1Anim {
-    0%, 48% { opacity: 1; transform: translate(0,0) skewX(0deg); filter: none; }
-    49% { opacity:0.7; transform: translate(-6px, 4px) skewX(15deg); filter: hue-rotate(90deg) brightness(1.5); }
-    49.5% { opacity:0.3; transform: translate(6px,-4px) skewX(-15deg); filter: hue-rotate(-90deg) brightness(2); }
+    0%, 48% { opacity: 1; transform: translate(0,0) skewX(0deg); }
+    49% { opacity:0.7; transform: translate(-6px, 4px) skewX(15deg); }
+    49.5% { opacity:0.3; transform: translate(6px,-4px) skewX(-15deg); }
     50%, 98% { opacity: 0; }
-    98.5% { opacity:0.3; transform: translate(5px,-3px) skewX(-10deg); filter: hue-rotate(90deg) brightness(2); }
-    99% { opacity:0.7; transform: translate(-5px,3px) skewX(10deg); filter: hue-rotate(-90deg) brightness(1.5); }
-    100% { opacity: 1; transform: translate(0,0) skewX(0deg); filter: none; }
+    98.5% { opacity:0.3; transform: translate(5px,-3px) skewX(-10deg); }
+    99% { opacity:0.7; transform: translate(-5px,3px) skewX(10deg); }
+    100% { opacity: 1; transform: translate(0,0) skewX(0deg); }
 }
 @keyframes img2Anim {
     0%, 48% { opacity: 0; }
-    49% { opacity:0.3; transform: translate(6px,-4px) skewX(-15deg); filter: hue-rotate(180deg) brightness(2); }
-    49.5% { opacity:0.7; transform: translate(-6px,4px) skewX(15deg); filter: hue-rotate(-180deg) brightness(1.5); }
-    50%, 98% { opacity: 1; transform: translate(0,0) skewX(0deg); filter: none; }
-    98.5% { opacity:0.7; transform: translate(-5px,3px) skewX(10deg); filter: hue-rotate(90deg) brightness(1.5); }
-    99% { opacity:0.3; transform: translate(5px,-3px) skewX(-10deg); filter: hue-rotate(-90deg) brightness(2); }
+    49% { opacity:0.3; transform: translate(6px,-4px) skewX(-15deg); }
+    49.5% { opacity:0.7; transform: translate(-6px,4px) skewX(15deg); }
+    50%, 98% { opacity: 1; transform: translate(0,0) skewX(0deg); }
+    98.5% { opacity:0.7; transform: translate(-5px,3px) skewX(10deg); }
+    99% { opacity:0.3; transform: translate(5px,-3px) skewX(-10deg); }
     100% { opacity: 0; }
 }
 .glitch-img1 { animation: img1Anim 10s ease-in-out infinite; transform-origin: center; }
