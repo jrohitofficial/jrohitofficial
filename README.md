@@ -61,17 +61,27 @@
   🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
    </p>
 <p align="center">
-<a href="https://www.buymeacoffee.com/jrohitofficial_" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
-<a href="https://discord.com/users/jrohitofficial_#1528" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
-<a href="https://jrohit.com.np" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://twitter.com/jrohitofficial_" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/jrohitofficial" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/jrohitofficial_" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-<a href="https://facebook.com/jrohitofficial" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
-<a href="https://replit.com/@jrohitofficial" target="_blank"><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a>
-<a href="https://codepen.io/jrohitofficial_" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
-<a href="https://www.youtube.com/@BisKIRANVLOG" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=red" style="vertical-align:center" /></a>
-<a href="mailto:jrohitofficial@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
+<a href="https://www.buymeacoffee.com/jrohitofficial_" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a> &nbsp;
+    <a href="https://discord.com/users/jrohitofficial_#1528" target="_blank">
+      <img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a> &nbsp;
+    <a href="https://jrohit.com.np" target="_blank">
+      <img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a> &nbsp;
+    <a href="https://twitter.com/jrohitofficial_" target="_blank">
+      <img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a> &nbsp;
+    <a href="https://linkedin.com/in/jrohitofficial" target="_blank">
+      <img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a> &nbsp;
+    <a href="https://instagram.com/jrohitofficial_" target="_blank">
+      <img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a> &nbsp;
+    <a href="https://facebook.com/jrohitofficial" target="_blank">
+      <img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a> &nbsp;
+    <a href="https://replit.com/@jrohitofficial" target="_blank">
+      <img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a> &nbsp;
+    <a href="https://codepen.io/jrohitofficial_" target="_blank">
+      <img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a> &nbsp;
+    <a href="https://www.youtube.com/@BisKIRANVLOG" target="_blank">
+      <img alt="" src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=red" style="vertical-align:center" /></a> &nbsp;
+    <a href="mailto:jrohitofficial@gmail.com" target="_blank">
+      <img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
 </p>
 
 
@@ -107,36 +117,36 @@
  <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="25" height="25" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="25" height="25" />
-  </a>
-  <a href="https://d3js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="25" height="25" />
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="25" height="25" />
-  </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="Gatsby" width="25" height="25" />
-  </a>
-  <a href="https://heroku.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="25" height="25" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="25" height="25" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="25" height="25" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="25" height="25" />
-  </a>
-  <a href="https://www.linux.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="25" height="25" />
-  </a>
-  <a href="https://www.apple.com/macos/sonoma/" target="_blank">
-    <img src="https://www.svgrepo.com/show/349442/macos.svg" alt="macOS" width="25" height="25" />
+  </a> &nbsp;
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="25" height="25" />
+  </a> &nbsp;
+    <a href="https://d3js.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="25" height="25" />
+  </a> &nbsp;
+    <a href="https://expressjs.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="25" height="25" />
+  </a> &nbsp;
+    <a href="https://www.gatsbyjs.com/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="Gatsby" width="25" height="25" />
+  </a> &nbsp;
+    <a href="https://heroku.com" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="25" height="25" />
+  </a> &nbsp;
+    <a href="https://dotnet.microsoft.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="25" height="25" />
+  </a> &nbsp;
+    <a href="https://flask.palletsprojects.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="25" height="25" />
+  </a> &nbsp;
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="25" height="25" />
+  </a> &nbsp;
+    <a href="https://www.linux.org" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="25" height="25" />
+  </a> &nbsp;
+    <a href="https://www.apple.com/macos/sonoma/" target="_blank">
+      <img src="https://www.svgrepo.com/show/349442/macos.svg" alt="macOS" width="25" height="25" />
   </a>
 </p>
 
@@ -406,31 +416,27 @@ public class CodeBite {
  <p align="center">
   <a href="https://jrohit.com.np/" target="_blank">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
-  </a>
-
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
-  </a>
-
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40"" />
+  </a> &nbsp;
+    <a href="https://jrohit.com.np" target="_blank">
+      <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
+  </a> &nbsp;
+    <a href="https://jrohit.com.np" target="_blank">
+      <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
+  </a> &nbsp;
+    <a href="https://jrohit.com.np" target="_blank">
+      <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
+  </a> &nbsp;
+    <a href="https://jrohit.com.np" target="_blank">
+      <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
+  </a> &nbsp;
+    <a href="https://jrohit.com.np" target="_blank">
+      <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
+  </a> &nbsp;
+    <a href="https://jrohit.com.np" target="_blank">
+      <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
+  </a> &nbsp;
+    <a href="https://jrohit.com.np" target="_blank">
+      <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40"" />
   </a>
   
  </p>
